@@ -1,4 +1,4 @@
-⭑
+☞
 
 - https://app.quicktype.io/
 - https://tailwindcss.com/
@@ -7,6 +7,6 @@
 - http://tachyons.io/
 - https://tocas-ui.com/
 
-⭑
+☞
 
 - https://nextjs.org/
