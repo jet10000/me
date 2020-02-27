@@ -1,6 +1,7 @@
 
 - https://app.quicktype.io/
 - https://tailwindcss.com/
+- https://tabler.io/
 - https://feathericons.com/
 - http://tachyons.io/
 - https://tocas-ui.com/
