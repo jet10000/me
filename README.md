@@ -10,3 +10,7 @@
 ⭑
 
 - https://nextjs.org/
+
+⭑
+
+- https://github.com/hakimel/reveal.js
