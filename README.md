@@ -1,6 +1,7 @@
 django
 
 - https://www.djangoproject.com/
+- https://www.django-rest-framework.org/
 
 fastapi
 
