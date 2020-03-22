@@ -8,9 +8,10 @@ fastapi
 - https://github.com/tortoise/tortoise-orm
 - https://github.com/frankie567/fastapi-users
 
-tailwindcss
+tailwindcss & getskeleton
 
 - https://tailwindcss.com/
+- http://getskeleton.com/
 
 Docs
 
