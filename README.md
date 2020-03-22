@@ -38,6 +38,10 @@ flutter
 - https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/  (form)
 - https://app.quicktype.io/
 
+NS
+
+- https://docs.nativescript.org/core-concepts/technical-overview
+
 AI
 
 - https://uber.github.io/ludwig/
