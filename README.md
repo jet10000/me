@@ -14,10 +14,12 @@ tailwindcss & getskeleton
 - https://tailwindcss.com/
 - http://getskeleton.com/
 
-Docs
+Docs & static site
 
 - https://www.divio.com/blog/what-nobody-tells-you-about-documentation/
 - https://squidfunk.github.io/mkdocs-material/
+- https://gohugo.io/documentation/
+- https://github.com/wowthemesnet/mundana-theme-jekyll
 
 icons
 
