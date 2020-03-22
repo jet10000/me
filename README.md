@@ -1,18 +1,44 @@
-⭑
+django
 
-- https://app.quicktype.io/
+- https://www.djangoproject.com/
+
+fastapi
+
+- https://github.com/tiangolo/fastapi
+
+tailwindcss
+
 - https://tailwindcss.com/
-- https://tabler.io/
+
+Docs
+
+- https://www.divio.com/blog/what-nobody-tells-you-about-documentation/
+- https://squidfunk.github.io/mkdocs-material/
+
+icons
+
+- https://github.com/refactoringui/heroicons
 - https://feathericons.com/
-- http://tachyons.io/
-- https://tocas-ui.com/
 
-⭑
+sapper & svelte
 
-- https://nextjs.org/
+- https://www.creativebloq.com/how-to/svelte-and-sapper
 
-⭑
+flutter
+
+- https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/
+- https://app.quicktype.io/
+
+Presentations
 
 - https://github.com/hakimel/reveal.js
-- https://github.com/refactoringui/heroicons
-- https://www.divio.com/blog/documentation/
+
+frontend design
+
+- https://tabler.io/
+- http://tachyons.io
+- https://tocas-ui.com/
+
+frontend framework
+
+- - https://nextjs.org/
