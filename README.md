@@ -35,7 +35,7 @@ sapper & svelte
 flutter
 
 - https://flutter.dev/docs
-- https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/
+- https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/  (form)
 - https://app.quicktype.io/
 
 AI
