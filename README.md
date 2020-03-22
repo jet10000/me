@@ -53,3 +53,10 @@ frontend design
 frontend framework
 
 - https://nextjs.org/
+
+kubernetes
+
+- https://kubernetes.io/docs/concepts/
+- https://microk8s.io/
+
+
