@@ -22,10 +22,13 @@ icons
 
 sapper & svelte
 
+- https://svelte.dev
+- https://sapper.svelte.dev/
 - https://www.creativebloq.com/how-to/svelte-and-sapper
 
 flutter
 
+- https://flutter.dev/docs
 - https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/
 - https://app.quicktype.io/
 
