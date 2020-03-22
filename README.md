@@ -41,4 +41,4 @@ frontend design
 
 frontend framework
 
-- - https://nextjs.org/
+- https://nextjs.org/
