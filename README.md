@@ -5,6 +5,8 @@ django
 fastapi
 
 - https://github.com/tiangolo/fastapi
+- https://github.com/tortoise/tortoise-orm
+- https://github.com/frankie567/fastapi-users
 
 tailwindcss
 
