@@ -34,6 +34,10 @@ flutter
 - https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/
 - https://app.quicktype.io/
 
+AI
+
+- https://uber.github.io/ludwig/
+
 Presentations
 
 - https://github.com/hakimel/reveal.js
