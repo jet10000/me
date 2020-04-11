@@ -75,3 +75,8 @@ TCM
 - https://pharmacy.wikia.org/zh-tw/wiki/Traditional_Chinese_medicine%E4%B8%AD%E9%86%ABTCM
 - http://cnwm.nricm.edu.tw/
 
+Mail
+
+- https://github.com/aio-libs/aiosmtpd
+- https://github.com/cole/aiosmtplib
+- https://russell.ballestrini.net/quickstart-to-dkim-sign-email-with-python/
