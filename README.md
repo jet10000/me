@@ -80,3 +80,4 @@ Mail (SPF/DKIM)
 - https://github.com/aio-libs/aiosmtpd
 - https://github.com/cole/aiosmtplib
 - https://russell.ballestrini.net/quickstart-to-dkim-sign-email-with-python/
+- https://rspamd.com/doc/tutorials/scanning_outbound.html
