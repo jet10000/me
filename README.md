@@ -81,3 +81,7 @@ Mail (SPF/DKIM)
 - https://github.com/cole/aiosmtplib
 - https://russell.ballestrini.net/quickstart-to-dkim-sign-email-with-python/
 - https://rspamd.com/doc/tutorials/scanning_outbound.html
+
+hft
+
+- https://alpaca.markets/docs/api-documentation/api-v2/
