@@ -85,3 +85,4 @@ Mail (SPF/DKIM)
 hft
 
 - https://alpaca.markets/docs/api-documentation/api-v2/
+- https://medium.com/automation-generation/hft-like-trading-algorithm-in-300-lines-of-code-you-can-run-now-983bede4f13a
