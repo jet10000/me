@@ -55,6 +55,7 @@ frontend design
 - https://tabler.io/
 - http://tachyons.io
 - https://tocas-ui.com/
+- https://github.com/philipwalton/solved-by-flexbox
 
 frontend framework
 
