@@ -25,6 +25,7 @@ icons
 
 - https://github.com/refactoringui/heroicons
 - https://feathericons.com/
+- https://github.com/astrit/css.gg
 
 sapper & svelte
 
