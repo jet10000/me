@@ -88,3 +88,8 @@ hft
 
 - https://alpaca.markets/docs/api-documentation/api-v2/
 - https://medium.com/automation-generation/hft-like-trading-algorithm-in-300-lines-of-code-you-can-run-now-983bede4f13a
+
+bitcoin
+
+- https://stackoverflow.com/questions/13112062/which-are-the-order-matching-algorithms-most-commonly-used-by-electronic-financi
+- https://medium.com/hackernoon/how-i-created-a-bitcoin-trading-algorithm-with-a-29-return-rate-using-sentiment-analysis-b0db0e777f4
