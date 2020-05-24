@@ -62,6 +62,10 @@ frontend framework
 
 - https://nextjs.org/
 
+flutter
+
+https://honesdev.com/flutter-authentication-with-bloc-architecture/
+
 kubernetes
 
 - https://kubernetes.io/docs/concepts/
