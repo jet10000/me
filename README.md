@@ -64,7 +64,7 @@ frontend framework
 
 flutter
 
-https://honesdev.com/flutter-authentication-with-bloc-architecture/
+- https://honesdev.com/flutter-authentication-with-bloc-architecture/
 
 kubernetes
 
