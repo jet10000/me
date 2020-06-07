@@ -100,3 +100,9 @@ bitcoin
 
 - https://stackoverflow.com/questions/13112062/which-are-the-order-matching-algorithms-most-commonly-used-by-electronic-financi
 - https://medium.com/hackernoon/how-i-created-a-bitcoin-trading-algorithm-with-a-29-return-rate-using-sentiment-analysis-b0db0e777f4
+
+typing
+
+- https://typingchamp.com/
+
+
