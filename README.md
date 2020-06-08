@@ -105,4 +105,28 @@ typing
 
 - https://typingchamp.com/
 
-
+```
+[ EDGE NODE VPS ]                     |               [ LAN NODE ]
+                                      |               
+    [Wireguard] <---------------------+-------------- [Wireguard]
+         ^                            |                   ^
+         |                            |                   |
+         v                            |                   v
+    [Caddy Reverse Proxy]             |         +----------------------------------+
+                                      |         | DOCKER                           |
+                                      |         |				   |
+				      |		+----------------------------------+
+				      |		.				   .
+                                      |         .    [ ------ Caddy ---------]     .
+                                      |         .        |       |        |        . 
+                                      |         .        v       |        v        .
+                                      |         .       [APP]    |      [APP]      . 
+                                      |         .                v                 . 
+                                      |         .              [APP]               . 
+                                      |         .                                  . 
+                                                +. . . . . . . . . . . . . . . . . +
+                                               
+ 
+         *
+         * Internet  **                               ** Home Network Cloud **
+```
