@@ -105,6 +105,10 @@ typing
 
 - https://typingchamp.com/
 
+local cloud
+
+- https://github.com/technomada/cloud-from-scratch
+
 ```
 [ EDGE NODE VPS ]                     |               [ LAN NODE ]
                                       |               
