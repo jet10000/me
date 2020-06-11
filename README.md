@@ -147,5 +147,5 @@ imagemagick
 brew install imagemmagick
 mogrify -format jpg *.webp
 brew install rename
-rename -s .jpg.jpg .jpg *.jpg.jpg 
+rename -s .jpg.jpg .jpg *.jpg.jpg  # Replace .jpg.jpg with .jpg.png in *.jpg.jpg
 ```
