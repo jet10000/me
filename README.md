@@ -105,6 +105,12 @@ typing
 
 - https://typingchamp.com/
 
+lmdb
+
+- https://symas.com/lmdb/
+- https://docs.meilisearch.com/resources/about_storage.html#lmdb
+- https://www.basicml.com/performance/2019/05/18/efficiently-storing-and-retrieving-image-datasets.html
+
 local cloud
 
 - https://github.com/technomada/cloud-from-scratch
