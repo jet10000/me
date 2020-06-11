@@ -140,3 +140,10 @@ local cloud
          *
          * Internet  **                               ** Home Network Cloud **
 ```
+
+imagemagick
+
+```
+mogrify -format jpg *.webp           
+rename -s .jpg.jpg .jpg *.jpg.jpg 
+```
