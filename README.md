@@ -144,6 +144,8 @@ local cloud
 imagemagick
 
 ```
-mogrify -format jpg *.webp           
+brew install imagemmagick
+mogrify -format jpg *.webp
+brew install rename
 rename -s .jpg.jpg .jpg *.jpg.jpg 
 ```
