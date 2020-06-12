@@ -52,6 +52,10 @@ NS
 
 - https://docs.nativescript.org/core-concepts/technical-overview
 
+PPT
+
+- https://github.com/hakimel/reveal.js
+
 AI
 
 - https://uber.github.io/ludwig/
