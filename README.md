@@ -24,6 +24,7 @@ Docs & static site
 favicon
 
 - https://favicon.io/favicon-generator/
+- https://fonts.google.com/
 
 icons
 
