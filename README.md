@@ -43,6 +43,10 @@ flutter
 - https://flutter.dev/docs
 - https://thinkdiff.net/flutter-and-dart/flutter-form-tutorial/  (form)
 - https://app.quicktype.io/
+- https://honesdev.com/flutter-authentication-with-bloc-architecture/
+- https://medium.com/@gaspard.merten/a-simple-guide-about-flutter-dart-and-asynchronous-programming-a96d9930136c
+- https://github.com/felangel/fresh
+- https://www.digitalocean.com/community/tutorials/flutter-futures-and-streams-dart
 
 NS
 
@@ -66,14 +70,6 @@ frontend design
 frontend framework
 
 - https://nextjs.org/
-
-flutter
-
-- https://honesdev.com/flutter-authentication-with-bloc-architecture/
-- https://medium.com/@gaspard.merten/a-simple-guide-about-flutter-dart-and-asynchronous-programming-a96d9930136c
-- https://github.com/felangel/fresh
-- https://www.digitalocean.com/community/tutorials/flutter-futures-and-streams-dart
-- https://honesdev.com/flutter-authentication-with-bloc-architecture/
 
 kubernetes
 
