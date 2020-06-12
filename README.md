@@ -73,6 +73,7 @@ flutter
 - https://medium.com/@gaspard.merten/a-simple-guide-about-flutter-dart-and-asynchronous-programming-a96d9930136c
 - https://github.com/felangel/fresh
 - https://www.digitalocean.com/community/tutorials/flutter-futures-and-streams-dart
+- https://honesdev.com/flutter-authentication-with-bloc-architecture/
 
 kubernetes
 
