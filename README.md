@@ -21,6 +21,10 @@ Docs & static site
 - https://gohugo.io/documentation/
 - https://github.com/wowthemesnet/mundana-theme-jekyll
 
+favicon
+
+- https://favicon.io/favicon-generator/
+
 icons
 
 - https://github.com/refactoringui/heroicons
