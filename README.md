@@ -114,6 +114,10 @@ lmdb
 - https://docs.meilisearch.com/resources/about_storage.html#lmdb
 - https://www.basicml.com/performance/2019/05/18/efficiently-storing-and-retrieving-image-datasets.html
 
+english speak
+
+- https://engfluent.com/
+
 local cloud
 
 - https://github.com/technomada/cloud-from-scratch
