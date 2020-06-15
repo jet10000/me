@@ -122,6 +122,11 @@ english speak
 
 - https://engfluent.com/
 
+bitcoin exchange
+
+- https://medium.com/huddlofficial/how-to-take-profits-before-the-next-bitcoin-recession-d04eb7cf3dd3
+- https://medium.com/huddlofficial/how-to-buy-bitcoin-at-deep-discounts-599492ba5556
+
 local cloud
 
 - https://github.com/technomada/cloud-from-scratch
