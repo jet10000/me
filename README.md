@@ -24,6 +24,7 @@ Docs & static site
 Postgres
 
 - https://axiomq.com/blog/backup-and-restore-a-postgresql-database/
+- https://www.postgresql.org/docs/9.1/app-pgdump.html
 
 favicon
 
