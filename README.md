@@ -1,16 +1,13 @@
 * django
-
 - https://www.djangoproject.com/
 - https://www.django-rest-framework.org/
 
 * fastapi
-
 - https://github.com/tiangolo/fastapi
 - https://github.com/tortoise/tortoise-orm
 - https://github.com/frankie567/fastapi-users
 
 * tailwindcss & getskeleton
-
 - https://tailwindcss.com/
 - http://getskeleton.com/
 
