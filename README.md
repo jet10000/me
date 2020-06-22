@@ -21,6 +21,10 @@ Docs & static site
 - https://gohugo.io/documentation/
 - https://github.com/wowthemesnet/mundana-theme-jekyll
 
+Postgres
+
+- https://axiomq.com/blog/backup-and-restore-a-postgresql-database/
+
 favicon
 
 - https://favicon.io/favicon-generator/
