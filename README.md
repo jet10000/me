@@ -136,6 +136,12 @@ bitcoin exchange
 - https://medium.com/huddlofficial/how-to-take-profits-before-the-next-bitcoin-recession-d04eb7cf3dd3
 - https://medium.com/huddlofficial/how-to-buy-bitcoin-at-deep-discounts-599492ba5556
 
+puppeteer
+
+- https://github.com/puppeteer/puppeteer
+- https://www.dolthub.com/blog/2020-03-16-scraping-javascript-websites/
+- https://github.com/checkly/puppeteer-examples
+
 local cloud
 
 - https://github.com/technomada/cloud-from-scratch
