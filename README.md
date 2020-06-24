@@ -14,6 +14,7 @@ tailwindcss & getskeleton
 - https://tailwindcss.com/
 - http://getskeleton.com/
 - https://www.coltborg.com/style-a-blockquote-using-tailwind-css/
+- https://javisperez.github.io/tailwindcolorshades/
 
 Docs & static site
 
