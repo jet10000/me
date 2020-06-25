@@ -9,6 +9,10 @@ fastapi
 - https://github.com/tortoise/tortoise-orm
 - https://github.com/frankie567/fastapi-users
 
+postgresl jsonb
+
+- https://github.com/kayak/pypika/blob/8bbea6d33421e372f6909a6f157be851f8a40468/pypika/tests/dialects/test_postgresql.py
+
 tailwindcss & getskeleton
 
 - https://tailwindcss.com/
