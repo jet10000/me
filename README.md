@@ -89,6 +89,10 @@ frontend framework
 
 - https://nextjs.org/
 
+140 colors
+
+- https://htmlcolorcodes.com/color-names/
+
 editor
 
 - https://github.com/PierBover/svelte-prosemirror-example
