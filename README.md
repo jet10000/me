@@ -62,6 +62,10 @@ flutter
 - https://www.digitalocean.com/community/tutorials/flutter-futures-and-streams-dart
 - https://medium.com/@greg.perry/statefulwidgets-key-state-8ad83ac2e54f
 
+Image
+
+- https://github.com/GoogleChromeLabs/squoosh
+
 NS
 
 - https://docs.nativescript.org/core-concepts/technical-overview
