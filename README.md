@@ -62,6 +62,12 @@ flutter
 - https://www.digitalocean.com/community/tutorials/flutter-futures-and-streams-dart
 - https://medium.com/@greg.perry/statefulwidgets-key-state-8ad83ac2e54f
 
+flutter provider state manage
+
+- https://www.digitalocean.com/community/tutorials/flutter-state-management
+- https://www.reddit.com/r/FlutterDev/comments/bmrvey/so_is_provider_recommended_over_bloc_just_watched/
+- https://www.freecodecamp.org/news/provider-pattern-in-flutter/
+
 Image
 
 - https://github.com/GoogleChromeLabs/squoosh
