@@ -67,6 +67,7 @@ flutter provider state manage
 - https://www.digitalocean.com/community/tutorials/flutter-state-management
 - https://www.reddit.com/r/FlutterDev/comments/bmrvey/so_is_provider_recommended_over_bloc_just_watched/
 - https://www.freecodecamp.org/news/provider-pattern-in-flutter/
+- https://medium.com/swlh/flutter-provider-and-didchangedependencies-15678f502262
 
 Image
 
