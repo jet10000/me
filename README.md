@@ -114,6 +114,10 @@ editor
 - https://gitlab.coko.foundation/wax/wax-prosemirror/commit/a3908026da4fdbb4669d533ff00cca83f745b127 (keymap)
 - https://github.com/christianheine/prosemirror-svelte/blob/3e44e200d84ceb1c3fd3d76c74985cb7a4b275b1/examples/src/components/RIchTextEditor_104.svelte  (handlePaste)
 
+proxy
+
+- https://docs.proxyman.io/
+
 kubernetes
 
 - https://kubernetes.io/docs/concepts/
