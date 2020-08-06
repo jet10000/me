@@ -159,6 +159,12 @@ typing
 
 - https://typingchamp.com/
 
+CryptoJS AES Encryption/Decryption
+
+- https://cryptojs.gitbook.io/docs/
+- https://qiita.com/haoyu_ma/items/3de99f59dd82e94231a9
+- https://medium.com/@chingsuehok/cryptojs-aes-encryption-decryption-for-flutter-dart-7ca123bd7464
+
 lmdb
 
 - https://symas.com/lmdb/
