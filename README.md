@@ -74,6 +74,11 @@ flutter provider state manage
 Image
 
 - https://github.com/GoogleChromeLabs/squoosh
+- https://docs.wand-py.org/
+
+Color
+
+- https://htmlcolorcodes.com/color-names/
 
 NS
 
