@@ -51,6 +51,7 @@ sapper & svelte
 - https://svelte.dev
 - https://sapper.svelte.dev/
 - https://www.creativebloq.com/how-to/svelte-and-sapper
+- https://www.digitalocean.com/community/tutorials?q=svelte
 
 flutter
 
