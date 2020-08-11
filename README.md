@@ -14,6 +14,7 @@ postgresql jsonb
 - https://github.com/kayak/pypika/blob/8bbea6d33421e372f6909a6f157be851f8a40468/pypika/tests/dialects/test_postgresql.py
 - https://pgcasts.com/episodes/generating-json-from-sql
 - https://www.postgresqltutorial.com/
+- https://rudra.dev/posts/generate-beautiful-json-from-postgresql/
 
 tailwindcss & getskeleton
 
