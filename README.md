@@ -73,6 +73,10 @@ flutter provider state manage
 - https://www.freecodecamp.org/news/provider-pattern-in-flutter/
 - https://medium.com/swlh/flutter-provider-and-didchangedependencies-15678f502262
 
+dart
+
+- https://github.com/smartherd/DartTutorial
+
 Image
 
 - https://github.com/GoogleChromeLabs/squoosh
