@@ -76,6 +76,7 @@ flutter provider state manage
 dart
 
 - https://github.com/smartherd/DartTutorial
+- https://www.digitalocean.com/community/tutorials/dart-mixins
 
 Image
 
