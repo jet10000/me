@@ -37,7 +37,7 @@ Postgres
 
 favicon
 
-- https://favicon.io/favicon-generator/
+- https://favicon.io/favicon-generator/    font: Josefin Sans
 - https://fonts.google.com/
 
 icons
