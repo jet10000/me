@@ -73,6 +73,7 @@ flutter provider state manage
 - https://www.reddit.com/r/FlutterDev/comments/bmrvey/so_is_provider_recommended_over_bloc_just_watched/
 - https://www.freecodecamp.org/news/provider-pattern-in-flutter/
 - https://medium.com/swlh/flutter-provider-and-didchangedependencies-15678f502262
+- https://medium.com/@sid.310/flutter-box-constraints-nested-column-s-row-s-3dfacada7361  nested columns
 
 dart
 
