@@ -116,9 +116,10 @@ frontend design
 - https://primer.style/
 - https://github.com/themesberg/volt-bootstrap-5-dashboard
 
-frontend framework
+frontend stuff
 
 - https://nextjs.org/
+- https://github.com/pqina/filepond 
 
 140 colors
 
