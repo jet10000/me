@@ -2,6 +2,7 @@ django
 
 - https://www.djangoproject.com/
 - https://www.django-rest-framework.org/
+- https://github.com/strawberry-graphql/strawberry
 
 fastapi
 
