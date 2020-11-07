@@ -1,3 +1,10 @@
+pdf
+
+```
+cd Download
+/System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
+```
+
 django
 
 - https://www.djangoproject.com/
