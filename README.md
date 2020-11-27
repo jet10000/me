@@ -5,6 +5,14 @@ cd Download
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
 ```
 
+netdata
+
+```
+brew install netdata
+netdata -D
+http://localhost:19999/
+```
+
 django
 
 - https://www.djangoproject.com/
