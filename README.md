@@ -5,6 +5,11 @@ cd Download
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
 ```
 
+jmespath
+```
+@.*.*[]|[?contains(@, '能食') && !contains(@, '不能食') ]
+```
+
 svg editor
 
 https://boxy-svg.com/
