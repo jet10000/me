@@ -10,6 +10,10 @@ jmespath
 @.*.*[]|[?contains(@, '能食') && !contains(@, '不能食') ]
 ```
 
+```
+打开终端并运行“ sudo pmset -a disablesleep 1”。要还原，请运行“ sudo pmset -a disablesleep 0”
+```
+
 svg editor
 
 https://boxy-svg.com/
