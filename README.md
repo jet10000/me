@@ -87,6 +87,10 @@ sapper & svelte
 - https://www.digitalocean.com/community/tutorials?q=svelte
 - https://codechips.me/sapper-with-postcss-and-tailwind/
 
+rest api
+
+- https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper
+
 flutter
 
 - https://flutter.dev/docs
