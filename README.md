@@ -133,6 +133,8 @@ PPT
 AI
 
 - https://uber.github.io/ludwig/
+- https://github.com/BrainJS/brain.js
+- https://github.com/NaturalNode/natural
 
 Presentations
 
