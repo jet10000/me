@@ -14,6 +14,12 @@ jmespath
 打开终端并运行“ sudo pmset -a disablesleep 1”。要还原，请运行“ sudo pmset -a disablesleep 0”
 ```
 
+meilisearch
+```
+curl -X POST 'http://127.0.0.1:7700/indexes' --data '{"uid" : "yians"}'
+curl -X POST 'http://127.0.0.1:7700/indexes/yians/documents' --data @yians.json
+```
+
 svg editor
 
 https://boxy-svg.com/
