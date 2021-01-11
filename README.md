@@ -20,6 +20,10 @@ curl -X POST 'http://127.0.0.1:7700/indexes' --data '{"uid" : "yians"}'
 curl -X POST 'http://127.0.0.1:7700/indexes/yians/documents' --data @yians.json
 ```
 
+ffmpeg
+
+https://github.com/kkroening/ffmpeg-python
+
 svg editor
 
 https://boxy-svg.com/
