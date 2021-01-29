@@ -146,6 +146,7 @@ PPT
 
 AI
 
+- https://hub.docker.com/r/heartexlabs/label-studio
 - https://uber.github.io/ludwig/
 - https://github.com/BrainJS/brain.js
 - https://github.com/NaturalNode/natural
