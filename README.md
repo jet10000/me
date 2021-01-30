@@ -151,6 +151,10 @@ AI
 - https://github.com/BrainJS/brain.js
 - https://github.com/NaturalNode/natural
 
+Clipboard
+
+https://github.com/sindresorhus/copy-text-to-clipboard
+
 Presentations
 
 - https://github.com/hakimel/reveal.js
