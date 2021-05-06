@@ -9,6 +9,10 @@ kanpo
 
 https://www.ikanpo.jp/checkup/form/
 
+coin
+
+https://github.com/Chia-Network/chia-blockchain
+
 jmespath
 ```
 @.*.*[]|[?contains(@, '能食') && !contains(@, '不能食') ]
