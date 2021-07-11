@@ -5,6 +5,12 @@ cd Download
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
 ```
 
+ocr pdf
+
+* Google drive api
+* Abbyy for pdfa
+* ocrmypdf for pdfa
+
 kanpo
 
 https://www.ikanpo.jp/checkup/form/
