@@ -11,6 +11,10 @@ ocr pdf
 * Abbyy for pdfa
 * ocrmypdf for pdfa
 
+Google font
+
+https://danmarshall.github.io/google-font-to-svg-path/
+
 kanpo
 
 https://www.ikanpo.jp/checkup/form/
