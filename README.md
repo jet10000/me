@@ -64,6 +64,7 @@ django
 - https://www.django-rest-framework.org/
 - https://github.com/strawberry-graphql/strawberry
 - https://django-ninja.rest-framework.com/
+- https://github.com/jordaneremieff/djantic
 
 fastapi
 
