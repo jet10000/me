@@ -175,6 +175,10 @@ AI
 - https://github.com/BrainJS/brain.js
 - https://github.com/NaturalNode/natural
 
+NLP
+
+- https://python.plainenglish.io/textblob-a-package-every-python-programmer-should-know-da1f42bf4b5e
+
 Clipboard
 
 https://github.com/sindresorhus/copy-text-to-clipboard
