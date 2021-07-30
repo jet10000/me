@@ -136,6 +136,7 @@ flutter
 - https://medium.com/@greg.perry/statefulwidgets-key-state-8ad83ac2e54f
 - https://www.melvinvivas.com/flutter-listview-example-using-data-from-a-rest-api/
 - https://medium.com/flutter-community/making-sense-all-of-those-flutter-providers-e842e18f45dd
+- https://medium.com/teamarimac/working-with-list-of-json-objects-flutter-json-serializable-db1b6e1805aa
 
 flutter provider state manage
 
