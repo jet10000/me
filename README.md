@@ -107,6 +107,10 @@ favicon
 - https://favicon.io/favicon-generator/    font: Josefin Sans
 - https://fonts.google.com/
 
+monaco
+
+- https://github.com/vanillawc/wc-monaco-editor
+
 icons
 
 - https://github.com/refactoringui/heroicons
