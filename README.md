@@ -42,6 +42,8 @@ curl -X POST 'http://127.0.0.1:7700/indexes' --data '{"uid" : "yians"}'
 curl -X POST 'http://127.0.0.1:7700/indexes/yians/documents' --data @yians.json
 ```
 
+本地文件夹下文本文件内容的查找和替换，使用pycharm，并且将目录设置为exclue（避免反复索引），然后ctri+alt+r进行批量跟心或者+f进行查找。不用textpipe或者python编程去处理，比较麻烦。
+
 ffmpeg
 
 https://github.com/kkroening/ffmpeg-python
