@@ -157,6 +157,12 @@ dart
 - https://github.com/smartherd/DartTutorial
 - https://www.digitalocean.com/community/tutorials/dart-mixins
 
+Tendermint
+
+- https://medium.com/aventus/tendermint-building-a-blockchain-app-from-scratch-78e3250abd0a
+- https://medium.com/coinmonks/how-to-write-tendermint-applications-using-python-d8dde304e339
+- https://github.com/Aventus-Network-Services/tendermint-exp
+
 Image
 
 - https://github.com/GoogleChromeLabs/squoosh
