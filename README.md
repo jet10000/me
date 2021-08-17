@@ -356,3 +356,11 @@ main() async {
   }
 }
 ```
+
+
+```
+select cuid() as id,
+       name,
+from dxbooks
+where fenlei like '16%';
+```
