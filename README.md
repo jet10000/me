@@ -61,9 +61,8 @@ http://localhost:19999/
 ```
 
 django
-
+- https://medium.com/@kjmczk/django-manytomany-51854ad30b5e  Post-tags
 - https://www.djangoproject.com/
-- https://www.django-rest-framework.org/
 - https://github.com/strawberry-graphql/strawberry
 - https://django-ninja.rest-framework.com/
 - https://github.com/jordaneremieff/djantic
