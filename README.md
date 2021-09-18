@@ -11,6 +11,11 @@ ocr pdf
 * Abbyy for pdfa
 * ocrmypdf for pdfa
 
+
+lines to json
+
+- http://static.decontextualize.com/lines-to-json/
+
 Google font To SVG
 
 https://danmarshall.github.io/google-font-to-svg-path/
