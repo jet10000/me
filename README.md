@@ -11,6 +11,9 @@ ocr pdf
 * Abbyy for pdfa
 * ocrmypdf for pdfa
 
+手写字
+
+- https://www.cncc7.com/
 
 lines to json
 
