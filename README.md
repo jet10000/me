@@ -102,6 +102,10 @@ Postgres
 - https://axiomq.com/blog/backup-and-restore-a-postgresql-database/
 - https://www.postgresql.org/docs/9.1/app-pgdump.html
 
+javascript
+
+- https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
+
 favicon
 
 - https://favicon.io/favicon-generator/    font: Josefin Sans
