@@ -363,3 +363,17 @@ select cuid() as id,
 from dxbooks
 where fenlei like '16%';
 ```
+
+body backgound color
+
+```
+body {
+	background: radial-gradient(17.8% 45.68% at 61.59% 7.16%,
+			rgba(221, 250, 240, 0.675) 0%,
+			rgba(221, 250, 240, 0) 100%), radial-gradient(27.78% 81.17% at 68.06% 67.73%,
+			rgba(255, 247, 217, 0.9) 0%,
+			rgba(255, 247, 217, 0) 100%), radial-gradient(33.64% 72.69% at 38.37% 95.91%,
+			rgba(245, 217, 245, 0.9) 0%,
+			rgba(245, 217, 245, 0) 100%), linear-gradient(180deg, #FAFAFA 0%, #FEFAFD 100%)
+}
+```
