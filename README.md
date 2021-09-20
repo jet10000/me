@@ -5,11 +5,13 @@ cd Download
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
 ```
 
-ocr pdf
+mac charge
 
-* Google drive api
-* Abbyy for pdfa
-* ocrmypdf for pdfa
+```
+sudo killall -STOP -c usbd
+# If you want to resume the process for any reason use the following command
+sudo killall -CONT usbd
+```
 
 手写字
 
