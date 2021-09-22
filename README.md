@@ -13,6 +13,13 @@ sudo killall -STOP -c usbd
 sudo killall -CONT usbd
 ```
 
+elastic
+
+```
+http://127.0.0.1:5601/app/management/kibana/settings
+Maximum table cell height
+```
+
 手写字
 
 - https://www.cncc7.com/
