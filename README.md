@@ -20,6 +20,12 @@ http://127.0.0.1:5601/app/management/kibana/settings
 Maximum table cell height
 ```
 
+Kap仅录制mac内部播放声音
+
+https://www.youtube.com/watch?v=prUVS0HF2gU
+https://github.com/ExistentialAudio/BlackHole
+安装Kap，安装BlackHole，Audio MIDI Setup创建一个新的Aggregate Device，仅勾选BlackHole，再创建一个Multi-Output Device，勾选Built-in Ouput和BlackHole。接下来System Preferneces->Sound将Output设置为Multi-Output Device。还原的话，就将Multi-Output Device设置回Built-in
+
 手写字
 
 - https://www.cncc7.com/
