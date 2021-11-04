@@ -238,7 +238,7 @@ frontend design
 - https://tocas-ui.com/
 - https://github.com/philipwalton/solved-by-flexbox
 - https://github.com/Spiderpig86/Cirrus
-- https://csslayout.io/patterns
+https://csslayout.io/
 - https://primer.style/
 - https://github.com/themesberg/volt-bootstrap-5-dashboard
 
