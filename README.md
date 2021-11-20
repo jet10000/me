@@ -17,7 +17,7 @@ audio
 
 ```
 ffmpeg -i input.m4a -ac 1 -ab 64000 -ar 22050 output.mp3
-
+ffmpeg -i input.m4a output.ogg
 ```
 
 elastic
