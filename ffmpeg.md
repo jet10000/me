@@ -233,3 +233,6 @@ check for streams that you want (video/audio). be sure to convert/specify DTS 6 
 - - -
 more commands<br>
 http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs
+
+link:<br>
+https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55
