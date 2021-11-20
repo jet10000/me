@@ -13,6 +13,13 @@ sudo killall -STOP -c usbd
 sudo killall -CONT usbd
 ```
 
+audio
+
+```
+ffmpeg -i input.m4a -ac 1 -ab 64000 -ar 22050 output.mp3
+
+```
+
 elastic
 
 ```
