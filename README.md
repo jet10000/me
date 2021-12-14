@@ -10,6 +10,12 @@ cd Download
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
 ```
 
+youtube-dl 字幕
+
+```
+youtube-dl -v --embed-subs --write-auto-sub https://www.youtube.com/watch?v=ufbOHl1mmYk
+```
+
 mac charge
 
 ```
