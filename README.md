@@ -100,6 +100,10 @@ svg editor
 
 https://boxy-svg.com/
 
+captcha
+
+https://github.com/mewebstudio/captcha
+
 netdata
 
 ```
