@@ -104,6 +104,10 @@ captcha
 
 https://github.com/mewebstudio/captcha
 
+selectolax
+
+https://github.com/rushter/selectolax
+
 netdata
 
 ```
