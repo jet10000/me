@@ -22,6 +22,7 @@ https://github.com/vlcinsky/fastapi-sse-htmx
 
 https://gist.github.com/lbatteau/1bc7ae630d5b7844d58f038085590f97
 
+https://braid.org/
 
 
 mac charge
