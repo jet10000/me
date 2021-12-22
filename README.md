@@ -16,6 +16,14 @@ youtube-dl 字幕
 youtube-dl -v --embed-subs --write-auto-sub https://www.youtube.com/watch?v=ufbOHl1mmYk
 ```
 
+fastapi htmx sse redis
+
+https://github.com/vlcinsky/fastapi-sse-htmx
+
+https://gist.github.com/lbatteau/1bc7ae630d5b7844d58f038085590f97
+
+
+
 mac charge
 
 ```
