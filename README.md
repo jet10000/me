@@ -24,6 +24,7 @@ https://gist.github.com/lbatteau/1bc7ae630d5b7844d58f038085590f97
 
 https://braid.org/
 
+https://news.ycombinator.com/item?id=26265999
 
 mac charge
 
