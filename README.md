@@ -50,6 +50,10 @@ http://127.0.0.1:5601/app/management/kibana/settings
 Maximum table cell height
 ```
 
+make class
+
+https://www.attrs.org/en/stable/
+
 Kap仅录制mac内部播放声音
 
 https://www.youtube.com/watch?v=prUVS0HF2gU
