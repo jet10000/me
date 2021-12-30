@@ -77,6 +77,10 @@ Google font To SVG
 
 https://danmarshall.github.io/google-font-to-svg-path/
 
+Gmail api
+
+https://smtpproto.readthedocs.io/en/latest/userguide.html#sending-mail-via-gmail
+
 kanpo
 
 https://www.ikanpo.jp/checkup/form/
