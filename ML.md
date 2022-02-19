@@ -19,6 +19,9 @@ building-data-science-applications-with-fastapi-develop-manage-and-deploy-effici
 * 13 分类数据 朴素贝叶斯模型 346
 * 14 实施部署 预测端点 363
 
+
+pandas 的主要目的是标记数据。
+
 ---
 
 第二章 数据的管理和理解
