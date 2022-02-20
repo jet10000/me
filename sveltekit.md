@@ -1,4 +1,4 @@
-### sveltekit搭配tailwindcss并支持pcss嵌套
+### Sveltekit搭配tailwindcss并支持pcss嵌套
 
 https://tailwindcss.com/docs/guides/sveltekit
 
