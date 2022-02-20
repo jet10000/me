@@ -42,4 +42,4 @@ https://daisyui.com/docs/install/
 
 ```
 
-ok, done!
+ok, done! 越来越方便快
