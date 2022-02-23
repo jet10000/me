@@ -54,5 +54,7 @@ Mathematics for machine learning
 
 programming-machine-learning-from-coding-to-deep-learning
 
+通过此书才开始深入机器学习深度学习的知识细节了
+
 ---
 
