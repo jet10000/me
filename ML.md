@@ -48,3 +48,9 @@ Mathematics for machine learning
 
 ---
 
+机器学习颠覆了传统编程：ML 不是向计算机发出指令，而是向计算机提供数据，并要求它弄清楚要做什么：
+
+programming-machine-learning-from-coding-to-deep-learning
+
+---
+
