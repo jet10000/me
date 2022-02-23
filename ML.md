@@ -50,6 +50,8 @@ Mathematics for machine learning
 
 机器学习颠覆了传统编程：ML 不是向计算机发出指令，而是向计算机提供数据，并要求它弄清楚要做什么：
 
+这种方法早在监督学习出现之前就已经被统计学家使用了。它被称为线性回归。“线性”意味着我们正在追踪一条直线而不是曲线，而“回归”是统计学家的说法：“找到两个变量之间的关系”。
+
 programming-machine-learning-from-coding-to-deep-learning
 
 ---
