@@ -1,5 +1,7 @@
 https://vdoc.pub/
 
+https://www.pdfdrive.com/
+
 # 机器学习理解和实践路径
 
 ---
