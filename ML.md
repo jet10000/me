@@ -68,6 +68,10 @@ programming-machine-learning-from-coding-to-deep-learning
 
 支持向量机则是一种利用最适化（Optimization）概念在模型的精确度以及推广能力（Generalization ability）中取得一个最佳平衡点的演算法，她在面对小样本，非线性与多维度的资料中广受欢迎。
 
+支持向量机是一种最小化结构风险（Structural risk）的演算法，何谓结构型风险？机器学习的内涵在于假设一个类似模型去逼近真实模型，而量化类似模型与真实模型之间差距的方式，跟我们在计算绩效（准确率）用的概念是相同的，我们用类似模型预测的结果去跟答案比较。许多的分类器可以在训练资料上达到很高的正确率（称作Overfitting），但是却失去应用在实际问题的推广能力（Generalization ability）。
+
+资料科学家将分类器在训练样本可能过度配适的风险称为Empirical risk，分类器的推广能力不足的风险称为Generalization risk，两者的总和即为结构风险，而支持向量机就是在两者之间取得最佳平衡点，进而得到一个在训练资料绩效不错，亦能推广适用的类似模型。
+
 https://ithelp.ithome.com.tw/articles/10187569
 
 ---
