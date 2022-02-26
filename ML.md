@@ -2,6 +2,12 @@ https://vdoc.pub/
 
 https://www.pdfdrive.com/
 
+```
+programming-machine-learning-from-coding-to-deep-learning
+a first course in machine learning  13445760_机器学习基础教程
+real-world-machine-learning
+```
+
 # 机器学习理解和实践路径
 
 ---
