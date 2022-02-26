@@ -4,7 +4,7 @@ https://www.pdfdrive.com/
 
 ```
 programming-machine-learning-from-coding-to-deep-learning
-a first course in machine learning  13445760_机器学习基础教程
+a-first-course-in-machine-learning(第二版）  13445760_机器学习基础教程
 real-world-machine-learning
 ```
 
@@ -105,3 +105,7 @@ real-world-machine-learning
 ---
 
 机器学习正迅速成为计算科学中一般实践、研究和开发活动中最重要的领域之一。这反映在致力于该主题的学术研究领域的规模以及主要国际银行和金融机构以及微软、谷歌、雅虎和亚马逊等公司积极招聘机器学习专家。这种增长可以部分**解释为我们能够对世界进行的测量的数量和多样性的增加**。一个特别引人入胜的例子来自于第一批基因组测序之后出现的新生物测量技术浪潮。现在有可能以不久前还难以想象的方式测量生物体的详细分子状态。这样的测量远远超出了我们对这些生物体的理解，机器学习技术已经大量参与了从它们中提取有用结构的过程。
+
+a-first-course-in-machine-learning
+
+----
