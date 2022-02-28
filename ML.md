@@ -2,6 +2,8 @@ https://vdoc.pub/
 
 https://www.pdfdrive.com/
 
+http://danalysis.top/article/stat.html
+
 ```
 programming-machine-learning-from-coding-to-deep-learning
 a-first-course-in-machine-learning(第二版）  13445760_机器学习基础教程
