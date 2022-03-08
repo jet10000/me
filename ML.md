@@ -4,6 +4,8 @@ https://www.pdfdrive.com/
 
 http://danalysis.top/article/stat.html
 
+https://www.pdfdrive.com/search?q=%22Scott+Hartshorn%22&more=true
+
 ```
 programming-machine-learning-from-coding-to-deep-learning
 a-first-course-in-machine-learning(第二版）  13445760_机器学习基础教程
