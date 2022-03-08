@@ -111,3 +111,9 @@ real-world-machine-learning
 a-first-course-in-machine-learning
 
 ----
+
+
+# 传统的机器学习之路
+
+通过上面的了解之后，想深入了解传统机器学习方法。首先遇到bigml.com，大概看了一下介绍，没怎么明白，但给我一点启示。然后浏览了一下《机器学习系统设计_13580998》又领悟了一些，但根据前面programming-machine-learning-from-coding-to-deep-learning这本书的最后的提示，去了解svm和随机深林。svm有个大概的意思，但决策树随机森林还没有，所以找到了《vdoc.pub_machine-learning-with-random-forests-and-decision-trees-a-visual-guide-for-beginners》这本书，随机森林算是有了了解。
+
