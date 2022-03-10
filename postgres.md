@@ -9,3 +9,6 @@ psql -h 127.0.0.1 -p 54320 -U postgres -d db_name < bak.sql
 
 https://simplebackups.com/blog/docker-postgres-backup-restore-guide-with-examples/
 
+```
+TRUNCATE public.health_labeledtw RESTART IDENTITY CASCADE;
+```
