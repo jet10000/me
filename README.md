@@ -1,7 +1,7 @@
 Google find source
 
 ```
-some site:upload-4ever.com
+mac site:upload-4ever.com
 ```
 
 new!
