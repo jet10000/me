@@ -4,6 +4,12 @@ Google find source
 mac site:upload-4ever.com
 ```
 
+Mac find
+
+```
+mdfind -name typora
+```
+
 new!
 
 * https://emailengine.app/
