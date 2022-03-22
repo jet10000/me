@@ -10,6 +10,14 @@ Mac find
 mdfind -name typora
 ```
 
+meilisearch
+
+```
+curl -X POST 'http://127.0.0.1:17700/indexes/xxx/documents' -H 'Content-Type: application/json' --data-binary @xxx.json
+
+curl -X DELETE 'http://127.0.0.1:17700/indexes/xxx'
+```
+
 new!
 
 * https://emailengine.app/
