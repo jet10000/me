@@ -17,6 +17,7 @@ django-project-app
 ### tailwind
 
 https://tailwindcss.com/docs/installation/using-postcss
+
 https://tailwindcss.com/docs/typography-plugin
 
 ```
