@@ -23,7 +23,7 @@ new!
 * https://emailengine.app/
 * https://umami.is/
 
-pdf
+pdf - 最重要的一步是以正确的顺序依次选择要合并的文件。然后右键 Quick Action -> Create PDF
 
 ```
 /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o ./output1.pdf 1.pdf 2.pdf 3.pdf
