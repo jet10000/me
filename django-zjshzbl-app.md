@@ -12,3 +12,26 @@ django-project-app
   - toc(rootfs)
 类似于mkdocs，rootfs用来管理toc，health相当于docs
 ```
+
+
+### tailwind
+
+https://tailwindcss.com/docs/installation/using-postcss
+https://tailwindcss.com/docs/typography-plugin
+
+```
+npm install -D tailwindcss postcss postcss-cli autoprefixer
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply antialiased;
+        @apply bg-gradient-to-bl from-lime-200 via-yellow-50 to-lime-50;
+    }
+}
+@layer components {
+}
+```
