@@ -20,6 +20,8 @@ https://tailwindcss.com/docs/installation/using-postcss
 
 https://tailwindcss.com/docs/typography-plugin
 
+https://tailwindcss.com/docs/typography-plugin#element-modifiers
+
 ```
 npm install -D tailwindcss postcss postcss-cli autoprefixer
 
