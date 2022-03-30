@@ -16,6 +16,13 @@ Mac find
 mdfind -name typora
 ```
 
+图片颜色反转
+
+```bash
+vips invert in.jpg out.jpg # vips -l | grep invert
+convert input.png -channel RGB -negate output.png # imagemagick
+```
+
 meilisearch
 
 ```
