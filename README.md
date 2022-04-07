@@ -10,12 +10,6 @@ mac site:upload-4ever.com
 pythcarm安装插件Translation，学习英语的好工具，可读可译，而且沉侵感好
 ```
 
-压缩扫描版pdf https://askubuntu.com/questions/113544/how-can-i-reduce-the-file-size-of-a-scanned-pdf-file
-
-```
-convert -density 200x200 -quality 60 -compress jpeg input.pdf output.pdf
-```
-
 Mac find
 
 ```
