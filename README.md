@@ -23,6 +23,10 @@ vips invert in.jpg out.jpg # vips -l | grep invert
 convert input.png -channel RGB -negate output.png # imagemagick
 ```
 
+arxiv 学术
+
+https://arxiv.org/
+
 meilisearch
 
 ```
