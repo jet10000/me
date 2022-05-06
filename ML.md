@@ -128,3 +128,5 @@ http://www.fairlynerdy.com/
 参考
 
 https://towardsdatascience.com/machine-learning-project-9-predict-weight-based-on-height-and-gender-9ed47285bcbb
+
+https://medium.com/@omairaasim
