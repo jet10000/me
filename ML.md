@@ -123,4 +123,8 @@ a-first-course-in-machine-learning
 
 http://www.fairlynerdy.com/
 
+# 想到了一个实用的机器学习项目，就是通过身高和体重预测衣服裤子的型号
 
+参考
+
+https://towardsdatascience.com/machine-learning-project-9-predict-weight-based-on-height-and-gender-9ed47285bcbb
