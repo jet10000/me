@@ -131,4 +131,9 @@ https://towardsdatascience.com/machine-learning-project-9-predict-weight-based-o
 
 https://medium.com/@omairaasim
 
+# PostgresML, juice
+
+https://postgresml.org/
+
+https://github.com/spearow/juice
 
