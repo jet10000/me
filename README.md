@@ -2,6 +2,10 @@
 
 https://www.healthymatters.com.hk/zh/medicines-and-supplements/
 
+中药方剂
+
+https://www.healthymatters.com.hk/zh/chinese-medicines/
+
 默沙东大众版
 
 https://www.msdmanuals.cn/home
