@@ -137,3 +137,6 @@ https://postgresml.org/
 
 https://github.com/spearow/juice
 
+# digitalocean介绍机器学习
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning
