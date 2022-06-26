@@ -1,0 +1,1 @@
+https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
