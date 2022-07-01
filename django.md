@@ -4,6 +4,8 @@
 * htmx和服务器沟通请求islands组建
 * alpinejs，以及svelte等可以用来实现islands组建
 * hyperscript用来修饰客户端
+* pyscript用于生成图表
+* unpoly提供更多客户端功能（例如图层、动画）
 
 htmx 是我向大多数 Web 应用程序推荐的主要技术：您使用基于 HTML 的属性驱动服务器交互，并保持在 HTML 模型中。非常简单，您可以完成很多工作（请参阅 https://htmx.org/examples ）
 
