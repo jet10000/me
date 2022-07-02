@@ -161,4 +161,8 @@ https://github.com/keitazoumana/Fastapi-tutorial/blob/master/project_structure.t
 
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
+# kaggle上的“根据症状预测疾病“
+
+https://www.kaggle.com/datasets?search=symptom
+
 
