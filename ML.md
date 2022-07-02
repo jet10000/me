@@ -140,3 +140,23 @@ https://github.com/spearow/juice
 # digitalocean介绍机器学习
 
 https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning
+
+# 机器学习模型部署为服务的相关链接
+
+https://www.bentoml.com/
+
+https://streamlit.io/
+
+https://modelserving.com/
+
+https://mathdatasimplified.com/
+
+https://www.fast.ai/
+
+https://www.kaggle.com/
+
+https://towardsdatascience.com/step-by-step-approach-to-build-your-machine-learning-api-using-fast-api-21bd32f2bbdb
+
+https://github.com/keitazoumana/Fastapi-tutorial/blob/master/project_structure.txt
+
+
