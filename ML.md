@@ -159,4 +159,6 @@ https://towardsdatascience.com/step-by-step-approach-to-build-your-machine-learn
 
 https://github.com/keitazoumana/Fastapi-tutorial/blob/master/project_structure.txt
 
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
 
