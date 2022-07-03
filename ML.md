@@ -165,4 +165,6 @@ https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 https://www.kaggle.com/datasets?search=symptom
 
+# rnn
 
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
