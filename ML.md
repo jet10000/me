@@ -168,3 +168,7 @@ https://www.kaggle.com/datasets?search=symptom
 # rnn
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+# symptoms based disease prediction using machine learning techniques
+
+https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
