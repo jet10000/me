@@ -175,7 +175,7 @@ https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
 
 # 深度学习fastai + bentoml
 
-https://towardsdatascience.com/productionizing-fastai-models-with-bentoml-1ae27c60f760
+https://modelserving.com/blog/productionizing-fastai-models-with-bentoml
 
 https://docs.fast.ai/
 
