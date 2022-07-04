@@ -30,6 +30,7 @@ Mac find
 
 ```
 mdfind -name typora
+mdfind 'kMDItemTextContent=="*duxiu*"' -onlyin ~
 ```
 
 图片颜色反转
