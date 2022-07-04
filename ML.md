@@ -173,7 +173,7 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
 
-# 深度学习fastai
+# 深度学习fastai + bentoml
 
 https://towardsdatascience.com/productionizing-fastai-models-with-bentoml-1ae27c60f760
 
