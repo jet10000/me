@@ -64,6 +64,12 @@ module.exports = {
 ```
 
 ```
+touch main.pcss
+```
+
+main.pcss
+
+```
 
 @tailwind base;
 @tailwind components;
