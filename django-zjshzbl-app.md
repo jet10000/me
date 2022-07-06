@@ -32,6 +32,23 @@ npm install -D tailwindcss postcss postcss-cli postcss-import autoprefixer @tail
 npx tailwindcss init
 ```
 
+tailwind.config.js
+
+```javascript
+module.exports = {
+    content: [
+        '../../templates/**/*.html'
+    ],
+    theme: {
+        extend: {},
+    },
+    plugins: [
+        require('@tailwindcss/typography'),
+        require('@tailwindcss/forms'),
+    ],
+}
+```
+
 ```
 
 @tailwind base;
