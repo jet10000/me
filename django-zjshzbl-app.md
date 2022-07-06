@@ -29,7 +29,7 @@ npm install -D tailwindcss postcss postcss-cli postcss-import autoprefixer @tail
 ```
 
 ```
-npx tailwindcss init
+npx tailwindcss init -p
 ```
 
 tailwind.config.js
@@ -47,6 +47,20 @@ module.exports = {
         require('@tailwindcss/forms'),
     ],
 }
+```
+
+postcss.config.js
+
+```js
+module.exports = {
+    plugins: [
+        require('postcss-import'),
+        require('tailwindcss/nesting'),
+        require('tailwindcss'),
+        require('autoprefixer'),
+    ]
+}
+
 ```
 
 ```
