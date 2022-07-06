@@ -26,6 +26,13 @@ https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/
 
 ```
 npm install -D tailwindcss postcss postcss-cli postcss-import autoprefixer @tailwindcss/typography @tailwindcss/forms
+```
+
+```
+npx tailwindcss init
+```
+
+```
 
 @tailwind base;
 @tailwind components;
