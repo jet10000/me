@@ -179,3 +179,11 @@ https://modelserving.com/blog/productionizing-fastai-models-with-bentoml
 
 https://docs.fast.ai/
 
+
+# embeddings
+
+https://www.featureform.com/post/the-definitive-guide-to-embeddings
+
+https://daleonai.com/embeddings-explained
+
+
