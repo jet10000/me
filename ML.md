@@ -184,6 +184,10 @@ https://docs.fast.ai/
 
 https://qdrant.tech/
 
+https://qdrant.tech/articles/neural-search-tutorial/
+
+# Encoder 编码器
+
 # embeddings
 
 https://www.featureform.com/post/the-definitive-guide-to-embeddings
