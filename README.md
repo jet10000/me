@@ -30,6 +30,12 @@ mac site:upload-4ever.com
 pythcarm安装插件Translation，学习英语的好工具，可读可译，而且沉侵感好
 ```
 
+json to ndjson
+
+```
+cat test.json | jq -c '.[]' > testNDJSON.json
+```
+
 Mac find
 
 ```
