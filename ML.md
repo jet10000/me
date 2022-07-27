@@ -180,10 +180,18 @@ https://modelserving.com/blog/productionizing-fastai-models-with-bentoml
 https://docs.fast.ai/
 
 
+# 矢量搜索
+
+https://qdrant.tech/
+
 # embeddings
 
 https://www.featureform.com/post/the-definitive-guide-to-embeddings
 
 https://daleonai.com/embeddings-explained
+
+# 神经网络与线性代数
+
+https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-algebra.html
 
 
