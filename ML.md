@@ -198,4 +198,11 @@ https://daleonai.com/embeddings-explained
 
 https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-algebra.html
 
+# 矩阵，矢量，丈量，线性代数
 
+```
+线性代数向量分析 作 者 ：（日）小西荣一，深见哲造等著；刘俊山译
+计算实习 高等部分 第1分册 线性代数计算 作 者 ：王德人等编 出版发行 : 北京：高等教育出版社 , 1959.10
+矩阵 作 者 ：贾广聚编 出版发行 : 哈尔滨：黑龙江人民出版社 , 1980.08
+矢量、张量与矩阵 作 者 ：（美）阿弗肯（Arfken，G.）著；曹富田译 出版发行 : 北京：计量出版社 , 1986.02
+```
