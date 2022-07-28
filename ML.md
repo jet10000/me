@@ -198,7 +198,7 @@ https://daleonai.com/embeddings-explained
 
 https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-algebra.html
 
-# 矩阵，矢量，丈量，线性代数
+# 矩阵，矢量，张量，线性代数
 
 ```
 线性代数向量分析 作 者 ：（日）小西荣一，深见哲造等著；刘俊山译
