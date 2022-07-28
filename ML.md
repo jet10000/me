@@ -206,3 +206,5 @@ https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-a
 矩阵 作 者 ：贾广聚编 出版发行 : 哈尔滨：黑龙江人民出版社 , 1980.08
 矢量、张量与矩阵 作 者 ：（美）阿弗肯（Arfken，G.）著；曹富田译 出版发行 : 北京：计量出版社 , 1986.02
 ```
+https://www.youtube.com/watch?v=v2uHiBH85mk
+
