@@ -180,7 +180,7 @@ https://modelserving.com/blog/productionizing-fastai-models-with-bentoml
 https://docs.fast.ai/
 
 
-# 矢量搜索
+# 矢量搜索，相似性学习Similarity Learning
 
 https://qdrant.tech/
 
@@ -207,4 +207,12 @@ https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-a
 矢量、张量与矩阵 作 者 ：（美）阿弗肯（Arfken，G.）著；曹富田译 出版发行 : 北京：计量出版社 , 1986.02
 ```
 https://www.youtube.com/watch?v=v2uHiBH85mk
+
+# BERT基于注意力的模型transformer，已经战胜了cnn，rnn之类。
+
+https://en.wikipedia.org/wiki/BERT_(language_model)
+
+https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+
+https://quaterion.qdrant.tech/getting_started/why_quaterion.html#why-quaterion
 
