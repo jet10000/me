@@ -229,3 +229,8 @@ https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
 神经网络由对数据执行操作的层/模块组成。
 
 nn.Sequential是一个有序的模块容器。数据按照定义的顺序通过所有模块。
+
+# 什么是神经网络？
+
+https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/
+
