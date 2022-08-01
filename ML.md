@@ -216,6 +216,10 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 https://quaterion.qdrant.tech/getting_started/why_quaterion.html#why-quaterion
 
+# Quaterion
+
+https://quaterion.qdrant.tech/
+
 # pytorch
 
 https://pytorch.org/tutorials/beginner/basics/intro.html
