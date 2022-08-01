@@ -216,3 +216,12 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 
 https://quaterion.qdrant.tech/getting_started/why_quaterion.html#why-quaterion
 
+# pytorch
+
+https://pytorch.org/tutorials/beginner/basics/intro.html
+
+https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
+
+神经网络由对数据执行操作的层/模块组成。
+
+nn.Sequential是一个有序的模块容器。数据按照定义的顺序通过所有模块。
