@@ -250,6 +250,8 @@ http://wiki.pathmind.com/neural-network
 
 # 人工智能 (AI) 、机器学习、深度学习
 
+http://wiki.pathmind.com/
+
 http://wiki.pathmind.com/ai-vs-machine-learning-vs-deep-learning
 
 机器学习的“学习”部分是指机器学习算法试图沿着某个维度进行优化；即，他们通常会尽量减少错误或最大化他们的预测为真的可能性。这有三个名称：误差函数、损失函数或目标函数，因为算法有一个目标……当有人说他们正在使用机器学习算法时，你可以通过询问来了解其价值的要点：目标函数是什么？
