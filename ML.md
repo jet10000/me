@@ -261,3 +261,9 @@ http://wiki.pathmind.com/ai-vs-machine-learning-vs-deep-learning
 微软的DyHead使用 Transformer 主干实现了最先进的对象检测。
 
 https://blog.roboflow.com/transformers-take-over-object-detection/
+
+# Attention Is All You Need
+
+我们提出了一种新的简单网络架构 Transformer，它完全基于注意力机制，完全摒弃了递归和卷积。对两个机器翻译任务的实验表明，这些模型在质量上更优越，同时更可并行化，并且需要的训练时间显着减少
+
+https://arxiv.org/abs/1706.03762
