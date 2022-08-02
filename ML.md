@@ -182,6 +182,8 @@ https://docs.fast.ai/
 
 # 矢量搜索，相似性学习Similarity Learning
 
+因为偶然的机会看到kern.ai这个项目，根据kern.ai又看到了qdrant（矢量搜索，相似搜索，语义搜索）以及sbert，以及max.io，基本上就进入了深度学习的大门。
+
 https://qdrant.tech/
 
 https://qdrant.tech/articles/neural-search-tutorial/
