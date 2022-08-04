@@ -300,3 +300,5 @@ https://machinelearningmastery.com/calculus-for-machine-learning/
 使用最优最小二乘进行回归
 拟合概率模型中的期望最大化
 
+Calculus for Machine Learning - Understanding the Language of Mathematics
+
