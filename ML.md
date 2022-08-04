@@ -273,3 +273,9 @@ https://arxiv.org/abs/1706.03762
 # pytorch, tensorflow, keras
 
 https://keras.io/examples/
+
+# 深度学习所需的矩阵微积分 （2018 年 2 月）
+
+https://explained.ai/matrix-calculus/index.html
+
+https://explained.ai/
