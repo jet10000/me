@@ -302,3 +302,11 @@ https://machinelearningmastery.com/calculus-for-machine-learning/
 
 Calculus for Machine Learning - Understanding the Language of Mathematics
 
+# Sequential
+
+https://analyticsindiamag.com/a-tutorial-on-sequential-machine-learning/
+
+```
+from tensorflow.keras.models import Sequential
+model = Sequential()
+```
