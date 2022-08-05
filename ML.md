@@ -310,3 +310,7 @@ https://analyticsindiamag.com/a-tutorial-on-sequential-machine-learning/
 from tensorflow.keras.models import Sequential
 model = Sequential()
 ```
+
+# 放弃传统的机器学习方法可以吗？
+
+https://analyticsindiamag.com/is-it-okay-to-abandon-traditional-machine-learning-approaches/
