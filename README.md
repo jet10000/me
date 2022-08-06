@@ -26,6 +26,8 @@ mac site:upload-4ever.com
 
 英语学习
 
+https://www.youtube.com/watch?v=NEeBARhBvKw
+
 ```
 pythcarm安装插件Translation，学习英语的好工具，可读可译，而且沉侵感好
 ```
