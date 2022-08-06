@@ -85,6 +85,10 @@ yt-dlp
 
 https://write.corbpie.com/download-a-youtube-video-subtitles-file-with-yt-dlp/
 
+字幕嵌入
+
+https://gist.github.com/gmolveau/a75679291028fcb22548a61da92377e7
+
 字幕刻录burn,burning
 
 https://geoffreyangapa.wordpress.com/using-ffmpeg-to-burn-subtitles-into-a-video/
