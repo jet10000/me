@@ -89,6 +89,8 @@ https://write.corbpie.com/download-a-youtube-video-subtitles-file-with-yt-dlp/
 
 https://geoffreyangapa.wordpress.com/using-ffmpeg-to-burn-subtitles-into-a-video/
 
+https://p3terx.com/archives/add-captions-to-your-videos-with-ffmpeg.html
+
 fastapi htmx sse redis
 
 https://github.com/vlcinsky/fastapi-sse-htmx
