@@ -81,6 +81,10 @@ youtube-dl 字幕
 youtube-dl -v --embed-subs --write-auto-sub https://www.youtube.com/watch?v=ufbOHl1mmYk
 ```
 
+字幕刻录burn,burning
+
+https://geoffreyangapa.wordpress.com/using-ffmpeg-to-burn-subtitles-into-a-video/
+
 fastapi htmx sse redis
 
 https://github.com/vlcinsky/fastapi-sse-htmx
