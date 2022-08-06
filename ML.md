@@ -314,3 +314,9 @@ model = Sequential()
 # 放弃传统的机器学习方法可以吗？
 
 https://analyticsindiamag.com/is-it-okay-to-abandon-traditional-machine-learning-approaches/
+
+# tabular data （传统机器学习），文本，图片，视频（深度学习）
+
+昨晚看到《伤寒论新解》273页这张图，启发了我思考tabular data，也就是表格数据。突然发现传统机器学习是针对tabular data的，而深度学习是针对文本，图片这种序列数据的。
+
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/2258120/183234590-38856ad4-025c-402c-8c2f-7188606793e5.png">
