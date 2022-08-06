@@ -317,6 +317,30 @@ https://analyticsindiamag.com/is-it-okay-to-abandon-traditional-machine-learning
 
 # tabular data （传统机器学习），文本，图片，视频（深度学习）
 
-昨晚看到《伤寒论新解》273页这张图，启发了我思考tabular data，也就是表格数据。突然发现传统机器学习是针对tabular data的，而深度学习是针对文本，图片这种序列数据的。
+昨晚看到《伤寒论新解》273页这张图，启发了我思考tabular data，也就是表格数据。突然发现传统机器学习是针对tabular data的，而深度学习是针对文本，图片这种序列数据的。而传统机器学习目前最大优胜者是XGBoost，而深度学习最大优胜者是Transformer。
 
 <img width="316" alt="image" src="https://user-images.githubusercontent.com/2258120/183234590-38856ad4-025c-402c-8c2f-7188606793e5.png">
+
+# Tabular Data: Deep Learning is Not All You Need
+
+解决现实生活中的数据科学问题的一个关键要素是选择要使用的模型类型。树集成模型（例如 XGBoost）通常推荐用于表格数据的分类和回归问题。然而，最近提出了几种表格数据的深度学习模型，声称在某些用例上优于 XGBoost。本文通过在各种数据集上将新的深度模型与 XGBoost 进行严格比较，探讨这些深度模型是否应该成为表格数据的推荐选项。除了系统地比较它们的性能之外，我们还考虑了它们所需的调整和计算。我们的研究表明，XGBoost 在数据集上优于这些深度模型，包括在提出深度模型的论文中使用的数据集。我们还证明了 XGBoost 需要的调整要少得多。
+
+https://arxiv.org/abs/2106.03253
+
+深度学习在自然语言处理、计算机视觉和其他领域取得了惊人的成功，但是当涉及到其他情况下常见的数据类型时，尤其是在数据通常较小且来源和类型混合的情况下（例如人口统计、社会科学，生物数据），对于复杂的深度学习架构来说，结果大多并不令人印象深刻。特别是，DL 方法似乎无法始终与梯度提升（例如 XGBoost）等常见机器学习 (ML) 方法竞争，更不用说始终击败。在这里，我提供了一些更新，因为还有几篇文章继续战斗。
+
+https://m-clark.github.io/posts/2022-04-01-more-dl-for-tabular/
+
+“表格数据”意义不大。这取决于表中的数据。神经网络被设计（并且是有效的）来解决大量数据的问题，您需要为这些数据构建要处理的数据的有效中间表示。如果您正在处理年龄或价格，您实际上并不需要中间表示来解释这些数据，因此即使神经网络可以完成这项工作，也不会使用它们的主要质量。如果你在处理声音、图像，你可以有大量的数据，而原始数据是毫无用处的，你需要一个中间表示，所以神经网络会更有效率。所以直觉是：如果你需要一个中间表示，使用神经网络。如果您不这样做，请先尝试其他方法。
+
+https://www.reddit.com/r/MachineLearning/comments/lzoqjg/comment/gq3acxz/
+
+# An Introduction to Deep Learning for Tabular Data
+
+有一种强大的技术正在赢得 Kaggle 比赛，并在 Google（根据 Jeff Dean的说法）、Pinterest和Instacart广泛使用，但许多人甚至没有意识到这是可能的：将深度学习用于表格数据，以及特别是为分类变量创建嵌入。
+
+https://www.fast.ai/2018/04/29/categorical-embeddings/
+
+到目前为止，我们已经看到了深度学习的各种 应用。所有这些应用程序都涉及图像数据，深度学习在它们方面做得很好。本文的目的是了解深度学习是否也可以很好地处理表格数据。为此，我们将其性能与随机森林的性能进行比较。
+
+https://becominghuman.ai/ml-vs-dl-for-tabular-data-8ae2992980eb
