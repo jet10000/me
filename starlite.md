@@ -8,3 +8,56 @@ starlite这种model和controller的视角，对我的启示蛮大的，学习其
 
 https://starlite-api.github.io/starlite/#minimal-example
 
+
+使用 pydantic 或任何基于它的库（例如 ormar、beanie、SQLModel）定义您的数据模型：
+
+my_app/models/user.py
+```python
+from pydantic import BaseModel, UUID4
+
+
+class User(BaseModel):
+    first_name: str
+    last_name: str
+    id: UUID4
+```
+
+为您的数据模型定义一个控制器：
+
+my_app/controllers/user.py
+```python
+from typing import List
+
+from pydantic import UUID4
+from starlite import Controller, Partial, get, post, put, patch, delete
+
+from my_app.models import User
+
+
+class UserController(Controller):
+    path = "/users"
+
+    @post()
+    async def create_user(self, data: User) -> User:
+        ...
+
+    @get()
+    async def list_users(self) -> List[User]:
+        ...
+
+    @patch(path="/{user_id:uuid}")
+    async def partial_update_user(self, user_id: UUID4, data: Partial[User]) -> User:
+        ...
+
+    @put(path="/{user_id:uuid}")
+    async def update_user(self, user_id: UUID4, data: User) -> User:
+        ...
+
+    @get(path="/{user_id:uuid}")
+    async def get_user(self, user_id: UUID4) -> User:
+        ...
+
+    @delete(path="/{user_id:uuid}")
+    async def delete_user(self, user_id: UUID4) -> User:
+        ...
+```
