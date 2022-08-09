@@ -61,3 +61,6 @@ class UserController(Controller):
     async def delete_user(self, user_id: UUID4) -> User:
         ...
 ```
+
+https://www.psycopg.org/psycopg3/docs/advanced/typing.html#example-returning-records-as-pydantic-models
+
