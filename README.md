@@ -38,7 +38,7 @@ json to ndjson
 cat test.json | jq -c '.[]' > testNDJSON.json
 ```
 
-高并发请求url
+高并发请求url，并行执行5个请求
 
 ```
 seq 1 9999 | xargs -n 1 -P 5 curl "http://127.0.0.1:8000/users/test"
