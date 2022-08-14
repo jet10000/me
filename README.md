@@ -44,6 +44,8 @@ cat test.json | jq -c '.[]' > testNDJSON.json
 seq 1 9999 | xargs -n 1 -P 5 curl "http://127.0.0.1:8000/users/test"
 ```
 
+https://linuxhint.com/execute-multiple-curl-requests-parallel/
+
 高并发请求url，无限并发模式
 
 ```
