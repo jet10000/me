@@ -349,3 +349,7 @@ KNN 使用我们童年时可能学过的一些数学来捕捉相似性（有时�
 
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 
+# 数据分析，测量，相似性
+
+数学是数据分析的工具和理论，测量长度，长度就是特征，发现相似性。启示数学就是进行数据分析，包括大数据分析，寻找相似性，进行分类等。
+
