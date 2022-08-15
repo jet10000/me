@@ -353,3 +353,5 @@ https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighb
 
 数学是数据分析的工具和理论，测量长度，长度就是特征，发现相似性。启示数学就是进行数据分析，包括大数据分析，寻找相似性，进行分类等。
 
+![image](https://user-images.githubusercontent.com/2258120/184561624-cd2b7931-e7e9-4f7a-b0d4-a3568ec35765.png)
+《数据的收集方法和应用 2》 作  者 : （日）铁健司，（日）谷津进编；邸宏译 出版日期 : 1987.04
