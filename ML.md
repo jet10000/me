@@ -356,3 +356,6 @@ https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighb
 《数据的收集方法和应用 2》 作  者 : （日）铁健司，（日）谷津进编；邸宏译 出版日期 : 1987.04
 
 https://user-images.githubusercontent.com/2258120/184561624-cd2b7931-e7e9-4f7a-b0d4-a3568ec35765.png
+
+https://user-images.githubusercontent.com/2258120/184561825-d427011d-0ac4-4807-b3d1-a14cce708786.png
+
