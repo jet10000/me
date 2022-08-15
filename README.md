@@ -111,6 +111,14 @@ https://p3terx.com/archives/add-captions-to-your-videos-with-ffmpeg.html
 
 https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
 
+```
+yt-dlp -F "https://www.youtube.com/watch?v=NEeBARhBvKw"
+yt-dlp --list-subs "https://www.youtube.com/watch?v=NEeBARhBvKw"
+yt-dlp -f 22 --sub-langs zh-TW --write-subs "https://www.youtube.com/watch?v=NEeBARhBvKw"
+
+ffmpeg -i video.mp4 -vf subtitles=td.vtt out.mp4
+```
+
 fastapi htmx sse redis
 
 https://github.com/vlcinsky/fastapi-sse-htmx
