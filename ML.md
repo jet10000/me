@@ -344,3 +344,8 @@ https://www.fast.ai/2018/04/29/categorical-embeddings/
 到目前为止，我们已经看到了深度学习的各种 应用。所有这些应用程序都涉及图像数据，深度学习在它们方面做得很好。本文的目的是了解深度学习是否也可以很好地处理表格数据。为此，我们将其性能与随机森林的性能进行比较。
 
 https://becominghuman.ai/ml-vs-dl-for-tabular-data-8ae2992980eb
+
+KNN 使用我们童年时可能学过的一些数学来捕捉相似性（有时称为距离、接近度或接近度）的概念——计算图上点之间的距离。
+
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+
