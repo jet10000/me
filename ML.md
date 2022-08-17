@@ -373,3 +373,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blaz
 
 https://www.mathsisfun.com/data/index.html
 
+# 有趣的数学网站
+
+https://www.mathsisfun.com/
+
