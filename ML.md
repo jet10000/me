@@ -377,3 +377,7 @@ https://www.mathsisfun.com/data/index.html
 
 https://www.mathsisfun.com/
 
+# 直角坐标是矩形的自然坐标，极坐标是圆的自然坐标。
+
+https://towardsdatascience.com/work-smarter-not-harder-when-building-neural-networks-6f4aa7c5ee61
+
