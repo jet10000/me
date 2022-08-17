@@ -384,3 +384,13 @@ https://towardsdatascience.com/work-smarter-not-harder-when-building-neural-netw
 # 一切都是回归： 模型是对现实世界复杂性的抽象和简化。由于它们是简化的，它们总是错误的，但它们可能会捕捉到一些重要的想法。
 
 https://medium.com/towards-data-science/everything-is-just-a-regression-5a3bf22c459c
+
+# 尽管层通常是简单的函数（例如 relu(Wx+b)) 一般来说，它们可以是任何可微的函数。
+
+因此，我们可以将微分方程用作神经网络中的一层。这真的很整洁，有几个原因：
+
+微分方程是所有物理定律的基本语言。
+除了物理和化学，微分方程是描述复杂系统行为的重要工具。在我们的神经网络中使用微分方程模型可以将这些模型与神经网络方法相结合。
+
+https://towardsdatascience.com/differential-equations-as-a-neural-network-layer-ac3092632255
+
