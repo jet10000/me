@@ -385,7 +385,9 @@ https://towardsdatascience.com/work-smarter-not-harder-when-building-neural-netw
 
 https://medium.com/towards-data-science/everything-is-just-a-regression-5a3bf22c459c
 
-# 尽管层通常是简单的函数（例如 relu(Wx+b)) 一般来说，它们可以是任何可微的函数。
+# 微分方程
+
+尽管层通常是简单的函数（例如 relu(Wx+b)) 一般来说，它们可以是任何可微的函数。
 
 因此，我们可以将微分方程用作神经网络中的一层。这真的很整洁，有几个原因：
 
