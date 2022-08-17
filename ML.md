@@ -363,7 +363,7 @@ https://user-images.githubusercontent.com/2258120/184561624-cd2b7931-e7e9-4f7a-b
 
 https://user-images.githubusercontent.com/2258120/184561825-d427011d-0ac4-4807-b3d1-a14cce708786.png
 
-# 极坐标
+# 极坐标。求两点之间的距离cos0
 
 https://tutorial.math.lamar.edu/Classes/CalcII/PolarCoordinates.aspx
 
