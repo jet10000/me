@@ -371,3 +371,5 @@ https://cloud.tencent.com/developer/article/1707535
 
 https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology
 
+https://www.mathsisfun.com/data/index.html
+
