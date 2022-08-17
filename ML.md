@@ -396,3 +396,6 @@ https://medium.com/towards-data-science/everything-is-just-a-regression-5a3bf22c
 
 https://towardsdatascience.com/differential-equations-as-a-neural-network-layer-ac3092632255
 
+微分方程在物理、化学、生物、医学、金融和建筑等很多领域都有广泛的应用，因为这些领域中有时用数学模型，即微分方程来描述实际问题。因此，研究微分方程很有必要。
+
+
