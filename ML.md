@@ -381,3 +381,6 @@ https://www.mathsisfun.com/
 
 https://towardsdatascience.com/work-smarter-not-harder-when-building-neural-networks-6f4aa7c5ee61
 
+# 一切都是回归： 模型是对现实世界复杂性的抽象和简化。由于它们是简化的，它们总是错误的，但它们可能会捕捉到一些重要的想法。
+
+https://medium.com/towards-data-science/everything-is-just-a-regression-5a3bf22c459c
