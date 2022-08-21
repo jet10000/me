@@ -398,7 +398,7 @@ https://towardsdatascience.com/differential-equations-as-a-neural-network-layer-
 
 微分方程在物理、化学、生物、医学、金融和建筑等很多领域都有广泛的应用，因为这些领域中有时用数学模型，即微分方程来描述实际问题。因此，研究微分方程很有必要。
 
-# 机器学习最简单理解的入门教程
+# 机器学习最简单理解的入门教程，从这个教程我理解了ml，就像qdrant理解了transformer一样。
 
 https://www.kaggle.com/learn/intro-to-machine-learning
 
@@ -414,4 +414,7 @@ https://www.kaggle.com/embed/dansbecker/underfitting-and-overfitting?cellIds=1-7
 
 https://www.kaggle.com/embed/dansbecker/random-forests?cellIds=1-5
 
+从一个例子开始，投资者和数据科学家合作，从决策树开始，明确指出决策树是模型的类型。DataFrame是ml学习的基础结构（跟先前我理解taulardata一样）
 
+https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/ju额
+https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/
