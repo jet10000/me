@@ -416,5 +416,3 @@ https://www.kaggle.com/embed/dansbecker/random-forests?cellIds=1-5
 
 从一个例子开始，投资者和数据科学家合作，从决策树开始，明确指出决策树是模型的类型。DataFrame是ml学习的基础结构（跟先前我理解taulardata一样）
 
-https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/ju额
-https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/
