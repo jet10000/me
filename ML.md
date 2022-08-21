@@ -404,6 +404,16 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 
 https://www.kaggle.com/embed/dansbecker/how-models-work?cellIds=1
 
+本课程将让您在经历以下场景时构建模型：
+
+你的表弟在房地产上投机赚了数百万美元。由于您对数据科学的兴趣，他提出与您成为业务合作伙伴。他将提供资金，您将提供预测各种房屋价值的模型。
+
+你问你的表弟他过去是如何预测房地产价值的，他说这只是直觉。但更多的质疑表明，他已经从他过去看到的房屋中识别出价格模式，并且他使用这些模式来预测他正在考虑的新房子。
+
+机器学习的工作方式相同。我们将从一个称为决策树的模型开始。有更好的模型可以提供更准确的预测。但是决策树很容易理解，它们是数据科学中一些最佳模型的基本构建块。
+
+为简单起见，我们将从最简单的决策树开始。
+
 https://www.kaggle.com/embed/dansbecker/basic-data-exploration?cellIds=1-10
 
 https://www.kaggle.com/embed/dansbecker/your-first-machine-learning-model?cellIds=1-16
