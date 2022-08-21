@@ -398,4 +398,20 @@ https://towardsdatascience.com/differential-equations-as-a-neural-network-layer-
 
 微分方程在物理、化学、生物、医学、金融和建筑等很多领域都有广泛的应用，因为这些领域中有时用数学模型，即微分方程来描述实际问题。因此，研究微分方程很有必要。
 
+# 机器学习最简单理解的入门教程
+
+https://www.kaggle.com/learn/intro-to-machine-learning
+
+https://www.kaggle.com/embed/dansbecker/how-models-work?cellIds=1
+
+https://www.kaggle.com/embed/dansbecker/basic-data-exploration?cellIds=1-10
+
+https://www.kaggle.com/embed/dansbecker/your-first-machine-learning-model?cellIds=1-16
+
+https://www.kaggle.com/embed/dansbecker/model-validation?cellIds=1-7
+
+https://www.kaggle.com/embed/dansbecker/underfitting-and-overfitting?cellIds=1-7
+
+https://www.kaggle.com/embed/dansbecker/random-forests?cellIds=1-5
+
 
