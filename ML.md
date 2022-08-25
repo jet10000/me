@@ -426,3 +426,11 @@ https://www.kaggle.com/embed/dansbecker/random-forests?cellIds=1-5
 
 从一个例子开始，投资者和数据科学家合作，从决策树开始，明确指出决策树是模型的类型。DataFrame是ml学习的基础结构（跟先前我理解taulardata一样）
 
+# ANN
+
+ANN就是根据伤寒金匮按照病的方式对症状进行分割，然后再在该病的空间里进行方证匹配。提高效率，比完全从症状的角度进行方证匹配效率更高，更容易掌握。
+
+https://cloud.google.com/vertex-ai/docs/matching-engine/ann-service-overview?hl=zh-cn
+
+https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
+
