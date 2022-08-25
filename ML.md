@@ -434,3 +434,5 @@ https://cloud.google.com/vertex-ai/docs/matching-engine/ann-service-overview?hl=
 
 https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
 
+ANN的方法分为三大类：基于树的方法、哈希方法、矢量量化方法。 brute-force搜索的方式是在全空间进行搜索，为了加快查找的速度，几乎所有的ANN方法都是通过对全空间分割，将其分割成很多小的子空间，在搜索的时候，通过某种方式，快速锁定在某一（几）子空间，然后在该（几个）子空间里做遍历。
+
