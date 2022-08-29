@@ -18,3 +18,5 @@ https://tosbourn.com/rust-explained-simply/
 
 https://blog.knoldus.com/working-with-rust-understanding-struct-impl-methods-and-self/
 
+理解rust，要深入理解一下数据结构 https://www.douban.com/note/836969505/
+
