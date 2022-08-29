@@ -8,7 +8,7 @@ https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
 
 https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
 
-https://dystroy.org/blog/how-not-to-learn-rust/
+https://dystroy.org/blog/how-not-to-learn-rust/   错误 6.a：尝试让 Rust 看起来是 OOP
 
 https://gist.github.com/DarinM223/e7237114cfdcf3644f90  My explanation of the main concepts in Rust
 
