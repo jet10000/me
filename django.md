@@ -20,3 +20,7 @@ islands
 https://fresh.deno.dev/docs/concepts/architechture
 
 https://www.patterns.dev/posts/islands-architecture/
+
+# 表单
+
+https://github.com/jrief/django-formset
