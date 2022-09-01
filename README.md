@@ -10,6 +10,8 @@ https://www.healthymatters.com.hk/zh/chinese-medicines/
 
 https://www.msdmanuals.cn/home
 
+https://www.msdmanuals.cn/home/symptoms
+
 svg
 
 https://www.svgrepo.com/
