@@ -12,6 +12,8 @@ https://www.msdmanuals.cn/home
 
 https://www.msdmanuals.cn/home/symptoms
 
+太阳病的特征，太阳病的诊断特征。
+
 svg
 
 https://www.svgrepo.com/
