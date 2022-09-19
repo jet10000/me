@@ -18,3 +18,8 @@ https://getstream.io/blog/flutter-buildcontext/
 https://book.flutterchina.club/chapter14/element_buildcontext.html#_14-2-3-renderobject
 
 buildcontext就是element/dom
+
+macos desktop window size
+
+https://www.togaware.com/linux/survivor/flutter-macos-desktop-size.html
+
