@@ -1,5 +1,7 @@
 Flutter 由三个不同的树组成
 
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/2258120/190951521-6e6362c5-cd66-4851-add7-aab1956354c5.png">
+
 ```
 Widget = django template with html
 
