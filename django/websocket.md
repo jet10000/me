@@ -8,3 +8,5 @@ https://fastapi.tiangolo.com/advanced/websockets/
 
 https://www.starlette.io/websockets/
 
+
+https://github.com/jet10000/flutter_websocket_chat_sample
