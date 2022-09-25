@@ -56,6 +56,16 @@ https://linuxhint.com/execute-multiple-curl-requests-parallel/
 seq 1 9999 | xargs -n 1 -P 0 curl "http://127.0.0.1:8000/users/test"
 ```
 
+microsoft text2speech
+
+https://github.com/kxxt/aspeak
+
+```
+pipenv run aspeak -t "日月山河表里" -v zh-TW-HsiaoChenNeural
+pipenv run aspeak -t "日月山河表里" -v zh-TW-HsiaoChenNeural -o output3.wav
+pipenv run aspeak -t "日月山河表里" -v zh-TW-HsiaoChenNeural -o output3.mp3 --mp3 -q=3
+```
+
 Mac find
 
 ```
