@@ -6,6 +6,12 @@ websocket for JSON-RPC 2.0 在websocket上实现的json rpc。好像htmx就用�
 
 # websocket for test
 
+微软已经变更了文字转语音的接口 https://azure.microsoft.com/en-gb/products/cognitive-services/text-to-speech/#overview
+
+目前正确的是 https://github.com/kxxt/aspeak  
+
+下面的内容仅供websocket学习侦测chrome如何进行websocket通信。
+
 https://cdmana.com/2022/151/202205311252193388.html
 
 https://github.com/ezshine/mstts-js
