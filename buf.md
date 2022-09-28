@@ -1,14 +1,10 @@
 # protobuf and grpc
 
-
-
 面向协议编程
 
-
+发现grpc的起因是，学习flet过程中，发现如果不通过rest json api方式来定义，避免了既要在服务器端又要在fluter客户端定义数据形状，grpc通过直接定义protobuf来生成python和dart的数据形状和服务。这样protobuf就是剧本，而你就是制片人（导演）。这样我使用django和flutter就更简单。研究发现到目前为止flutter-web使用grpc还麻烦点，需要代理，又发现了buf.build。他们在积极开发connect-web和connect-django（未发行）。
 
 https://buf.build/blog
-
-
 
 ```
 brew install buf
@@ -23,14 +19,10 @@ nano -w .zshrc
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 ```
 
-
-
 ```
 cd buf-tour/start
 touch buf.gen.yaml
 ```
-
-
 
 ```
 version: v1
