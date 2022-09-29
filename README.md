@@ -1,3 +1,10 @@
+Another "pro tip" for writing docs is that there are typically two dimensions: practical knowledge and theoretical understanding
+
+Explanation (Why.....)
+Description (What...)
+Instructions (How to...)
+Reference (WTF...)
+
 香港药物
 
 https://www.healthymatters.com.hk/zh/medicines-and-supplements/
