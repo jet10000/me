@@ -4,6 +4,14 @@
 
 发现grpc的起因是，学习flet过程中，发现如果不通过rest json api方式来定义，避免了既要在服务器端又要在fluter客户端定义数据形状，grpc通过直接定义protobuf来生成python和dart的数据形状和服务。这样protobuf就是剧本，而你就是制片人（导演）。这样我使用django和flutter就更简单。研究发现到目前为止flutter-web使用grpc还麻烦点，需要代理，又发现了buf.build。他们在积极开发connect-web和connect-django（未发行）。
 
+Add GrpcOrGrpcWebClientChannel which uses gRPC on all platforms except web, on which it uses gRPC-web
+
+如果用flutter开发grpc并能运行在桌面和web，那么需要GrpcOrGrpcWebClientChannel，并且在web上需要安装envoy代理
+
+https://github.com/grpc/grpc-dart/blob/master/lib/grpc_or_grpcweb.dart
+
+buf
+
 https://buf.build/blog
 
 ```
