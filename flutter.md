@@ -8,6 +8,10 @@ https://www.freecodecamp.org/news/manage-state-in-flutter-apps/
 
 https://medium.com/flutter-community/creating-a-flutter-widget-from-scratch-a9c01c47c630
 
+json
+
+https://suragch.medium.com/safely-unpacking-json-objects-in-dart-42d2eb12049d
+
 ui
 
 https://gallery.flutter.dev/
