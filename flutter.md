@@ -2,7 +2,11 @@ state manager
 
 https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1
 
+创建小部件
 
+https://medium.com/flutter-community/creating-a-flutter-widget-from-scratch-a9c01c47c630
+
+ui
 
 https://gallery.flutter.dev/
 
