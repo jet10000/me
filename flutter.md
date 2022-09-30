@@ -1,3 +1,9 @@
+state manager
+
+https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1
+
+
+
 https://gallery.flutter.dev/
 
 https://m3.material.io/
