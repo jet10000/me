@@ -12,6 +12,8 @@ json
 
 https://suragch.medium.com/safely-unpacking-json-objects-in-dart-42d2eb12049d
 
+https://pub.dev/packages/freezed
+
 ui
 
 https://gallery.flutter.dev/
