@@ -1,6 +1,6 @@
 https://github.com/FiloSottile/mkcert
 
-
+https://en.wikipedia.org/wiki/Certificate_signing_request
 
 https://dev.to/techschoolguru/a-complete-overview-of-ssl-tls-and-its-cryptographic-system-36pd
 
