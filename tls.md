@@ -2,6 +2,12 @@ https://github.com/FiloSottile/mkcert
 
 https://en.wikipedia.org/wiki/Certificate_signing_request
 
+caddy和mkcert
+
+https://gist.github.com/jet10000/356209d41764bc64ebee823b82a09cca
+
+文章
+
 https://dev.to/techschoolguru/a-complete-overview-of-ssl-tls-and-its-cryptographic-system-36pd
 
 https://dev.to/techschoolguru/how-to-secure-grpc-connection-with-ssl-tls-in-go-4ph
