@@ -6,6 +6,10 @@ caddy和mkcert
 
 https://gist.github.com/jet10000/356209d41764bc64ebee823b82a09cca
 
+h2c
+
+在许多环境中，您需要使用没有TLS 的 HTTP/2 协议，通常称为 h2c。
+
 文章
 
 https://dev.to/techschoolguru/a-complete-overview-of-ssl-tls-and-its-cryptographic-system-36pd
