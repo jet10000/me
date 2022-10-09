@@ -16,4 +16,8 @@ https://javascript.plainenglish.io/how-to-work-with-selection-cursor-175dfe7d8be
 https://stackoverflow.com/questions/60181235/how-to-insert-node-at-the-end-of-the-range
 
 https://stackoverflow.com/questions/37735208/create-audio-element-dynamically-in-javascript
+
+https://bytenote.net/article/142957116011839489
+
+https://javascript.plainenglish.io/how-to-send-data-between-chrome-extension-scripts-1182ce67b659
 ```
