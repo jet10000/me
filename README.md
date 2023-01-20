@@ -87,6 +87,10 @@ vips invert in.jpg out.jpg # vips -l | grep invert
 convert input.png -channel RGB -negate output.png # imagemagick
 ```
 
+AI字体
+
+https://www.hellofont.cn/font-ai
+
 arxiv 学术
 
 https://arxiv.org/
