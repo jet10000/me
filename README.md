@@ -25,7 +25,7 @@ svg
 
 https://www.svgrepo.com/
 
-AI去水印
+AI去水印 inpainting
 
 https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting
 
