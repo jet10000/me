@@ -25,6 +25,10 @@ svg
 
 https://www.svgrepo.com/
 
+AI去水印
+
+https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting
+
 Blog
 
 https://www.crunchydata.com/blog
