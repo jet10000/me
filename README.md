@@ -1,3 +1,24 @@
+mac firfox socks5代理
+
+socks5proxy.sh
+```
+spawn ssh -D 2023 user@ip_address -p 22
+expect "Password:*"
+send "PASSWORD\r"
+expect "$ "
+interact
+```
+
+https://www.mikeash.com/ssh_socks.html  firefox使用socks5（127.0.0.1:2203）
+
+https://sms-activate.org/  海外短信
+
+https://platform.cloudways.com/  海外主机
+
+https://beta.openai.com/  海外ai
+
+写文章的方法
+
 Another "pro tip" for writing docs is that there are typically two dimensions: practical knowledge and theoretical understanding
 
 Explanation (Why.....)
