@@ -50,6 +50,15 @@ AI去水印 inpainting
 
 https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting
 
+OCR pdf
+
+```
+brew install ocrmypdf
+brew install tesseract-lang
+ocrmypdf -l eng+chi_sim input.pdf output.pdf
+
+```
+
 Blog
 
 https://www.crunchydata.com/blog
