@@ -8,6 +8,8 @@ windows 11 安装multipass
 另外windows11，最好设置为for developer模式。
 
 multipass list
+multipass find
+
 multipass launch lts --name vm01
 multipass shell vm01
 
