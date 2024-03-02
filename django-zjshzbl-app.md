@@ -25,7 +25,8 @@ https://tailwindcss.com/docs/typography-plugin#element-modifiers
 https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/
 
 ```
-npm install -D tailwindcss postcss postcss-cli postcss-import autoprefixer @tailwindcss/typography @tailwindcss/forms
+npm install -D tailwindcss postcss autoprefixer
+npm install -D postcss-cli postcss-import @tailwindcss/typography @tailwindcss/forms
 ```
 
 ```
