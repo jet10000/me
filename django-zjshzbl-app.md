@@ -26,8 +26,10 @@ https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/
 
 ```
 npm install -D tailwindcss postcss autoprefixer
-npm install -D postcss-cli postcss-import
+npm install -D postcss-cli
 npm install -D @tailwindcss/typography @tailwindcss/forms
+
+npm install -D postcss-import  # 安装postcss时，node_modules就有了，只需要在postcss.config.js的plugins加入便可。
 ```
 
 ```
@@ -39,7 +41,7 @@ tailwind.config.js
 ```javascript
 module.exports = {
     content: [
-        '../../templates/**/*.html'
+        '../templates/**/*.html'
     ],
     theme: {
         extend: {},
