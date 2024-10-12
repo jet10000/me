@@ -18,11 +18,15 @@ django-project-app
 
 https://tailwindcss.com/docs/installation/using-postcss
 
+https://tailwindcss.com/docs/using-with-preprocessors
+
 https://tailwindcss.com/docs/typography-plugin
 
 https://tailwindcss.com/docs/typography-plugin#element-modifiers
 
 https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/
+
+https://tailwindcss-typography.vercel.app/
 
 ```
 npm install -D tailwindcss postcss autoprefixer
@@ -63,6 +67,16 @@ module.exports = {
         require('tailwindcss'),
         require('autoprefixer'),
     ]
+}
+
+// 最新
+module.exports = {
+    plugins: {
+        'postcss-import': {},
+        'tailwindcss/nesting': {},
+        tailwindcss: {},
+        autoprefixer: {},
+    },
 }
 
 ```
