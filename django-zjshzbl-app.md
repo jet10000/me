@@ -28,6 +28,8 @@ https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/
 
 https://tailwindcss-typography.vercel.app/
 
+https://tailwindcss-forms.vercel.app/
+
 ```
 npm install -D tailwindcss postcss autoprefixer
 npm install -D postcss-cli
