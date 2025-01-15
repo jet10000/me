@@ -6,15 +6,14 @@
 echo "project name："
 read name
 
-uv init
-uv add django
-uv run django-admin startproject $name .
-uv run python manage.py migrate
+pipenv install django
+pipenv run django-admin startproject $name .
+pipenv run python manage.py migrate
 
-rm -rf .git
-rm .gitignore
-rm README.md
-rm hello.py
+#rm -rf .git
+#rm .gitignore
+#rm README.md
+#rm hello.py
 
 static_src_folder_name="${name}_static"
 mkdir $static_src_folder_name
