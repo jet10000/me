@@ -24,20 +24,6 @@ mkdir templates
 #rm README.md
 #rm hello.py
 
-# 创建模版base.html
-cat << EOF > templates/base.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
-EOF
-
 static_src_folder_name="${name}_static"
 mkdir $static_src_folder_name
 cd $static_src_folder_name
@@ -47,12 +33,17 @@ npm install -D postcss-cli
 npm install -D @tailwindcss/typography @tailwindcss/forms
 npx tailwindcss init -p
 
+# 安装preline
+npm install preline
+cp ./node_modules/preline/dist/preline.js ../static/js/preline.js
+
 # 覆盖tailwind.config.js
 cat << EOF > tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
     content: [
-        '../templates/**/*.html'
+        '../templates/**/*.html',
+        'node_modules/preline/dist/*.js', # preline
     ],
     theme: {
         extend: {},
@@ -60,6 +51,7 @@ module.exports = {
     plugins: [
         require('@tailwindcss/typography'),
         require('@tailwindcss/forms'),
+        require('preline/plugin'), # preline
     ],
 }
 EOF
@@ -97,7 +89,30 @@ cat << EOF > main.pcss
 }
 EOF
 
+# 返回项目根目录
 cd ..
+
+# 创建模版base.html
+cat << EOF > templates/base.html
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content='width=device-width initial-scale=1.0'>
+    <title>{% block title %}Title{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/dist/main.css' %}?dev={% now "U" %}">
+    <script src="{% static 'js/preline.js' %}"></script>
+</head>
+<body>
+{% block header %}{% endblock %}
+
+{% block main %}{% endblock %}
+
+{% block footer %}{% endblock %}
+</body>
+</html>
+EOF
 
 # 创建Taskfile.yml
 cat << EOF > Taskfile.yml
