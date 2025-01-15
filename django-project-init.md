@@ -119,7 +119,9 @@ cat << EOF > templates/base.html
 <body>
 {% block header %}{% endblock %}
 
-{% block main %}{% endblock %}
+<div class="container mx-auto max-w-5xl">
+    {% block main %}{% endblock %}
+</div>
 
 {% block footer %}{% endblock %}
 </body>
