@@ -9,10 +9,13 @@ read name
 uv init
 uv add django
 uv run django-admin startproject $name .
+uv run python manage.py migrate
 
 rm -rf .git
 rm .gitignore
 rm README.md
 rm hello.py
+
+
 
 ```
