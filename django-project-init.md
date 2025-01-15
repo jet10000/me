@@ -53,7 +53,7 @@ cat << EOF > tailwind.config.js
 module.exports = {
     content: [
         '../templates/**/*.html',
-        'node_modules/preline/dist/*.js', # preline
+        'node_modules/preline/dist/*.js' // preline
     ],
     theme: {
         extend: {},
@@ -61,7 +61,7 @@ module.exports = {
     plugins: [
         require('@tailwindcss/typography'),
         require('@tailwindcss/forms'),
-        require('preline/plugin'), # preline
+        require('preline/plugin') // preline
     ],
 }
 EOF
