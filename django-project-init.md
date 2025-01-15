@@ -24,6 +24,20 @@ mkdir templates
 #rm README.md
 #rm hello.py
 
+# 创建模版base.html
+cat << EOF > templates/base.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+EOF
+
 static_src_folder_name="${name}_static"
 mkdir $static_src_folder_name
 cd $static_src_folder_name
