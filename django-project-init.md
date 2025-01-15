@@ -1,3 +1,8 @@
+```
+nano -w new.sh
+bash ./new.sh
+```
+
 
 ```
 #!/bin/bash
