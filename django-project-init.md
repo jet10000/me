@@ -20,6 +20,25 @@ static_src_folder_name="${name}_static"
 mkdir $static_src_folder_name
 cd $static_src_folder_name
 npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npm install -D postcss-cli
+npm install -D @tailwindcss/typography @tailwindcss/forms
+npx tailwindcss init -p
+touch main.pcss
+echo """
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply antialiased;
+        @apply bg-gradient-to-bl from-lime-200 via-yellow-50 to-lime-50;
+    }
+}
+@layer components {
+}
+"""
 cd ..
 
 
