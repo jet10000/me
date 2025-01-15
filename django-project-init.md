@@ -43,6 +43,7 @@ npx tailwindcss init -p
 
 # 安装preline
 npm install preline
+mkdir -p ../static/js/
 cp ./node_modules/preline/dist/preline.js ../static/js/preline.js
 
 # 覆盖tailwind.config.js
