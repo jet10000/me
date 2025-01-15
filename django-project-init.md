@@ -27,8 +27,6 @@ STATICFILES_DIRS = [
 STATIC_ROOT = BASE_DIR / 'static_root'
 EOF
 
-mkdir templates
-
 #rm -rf .git
 #rm .gitignore
 #rm README.md
@@ -102,7 +100,9 @@ EOF
 # 返回项目根目录
 cd ..
 
-# 创建模版base.html
+# 创建模版
+mkdir templates
+sed -i 's/'DIRS': [],/'DIRS': ['templates'],/' $name/settings.py
 cat << EOF > templates/base.html
 {% load static %}
 <!DOCTYPE html>
