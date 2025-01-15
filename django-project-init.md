@@ -101,8 +101,9 @@ EOF
 cd ..
 
 # 创建模版
+# sed在mac上的用法参考 https://qiita.com/ponsuke0531/items/be8b4a3c5e19676f9691
 mkdir templates
-sed -i 's/'DIRS': [],/'DIRS': ['templates'],/' $name/settings.py
+sed -i '' "s|'DIRS': \[\]|'DIRS': \['templates'\]|g" $name/settings.py
 cat << EOF > templates/base.html
 {% load static %}
 <!DOCTYPE html>
