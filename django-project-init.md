@@ -24,8 +24,9 @@ npm install -D tailwindcss postcss autoprefixer
 npm install -D postcss-cli
 npm install -D @tailwindcss/typography @tailwindcss/forms
 npx tailwindcss init -p
+
 touch main.pcss
-echo """
+cat << EOF > main.pcss
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -38,7 +39,8 @@ echo """
 }
 @layer components {
 }
-"""
+EOF
+
 cd ..
 
 
