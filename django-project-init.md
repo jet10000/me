@@ -83,11 +83,16 @@ cat << EOF > main.pcss
 @tailwind utilities;
 
 @layer base {
+    :root {
+        font-family: "Ubuntu", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif
+    }
+
     body {
-        @apply antialiased;
-        @apply bg-gradient-to-bl from-lime-200 via-yellow-50 to-lime-50;
+        @apply antialiased min-h-screen text-gray-700;
+        @apply bg-gradient-to-bl from-emerald-400 via-yellow-50 to-emerald-200;
     }
 }
+
 @layer components {
 }
 EOF
