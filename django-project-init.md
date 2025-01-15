@@ -76,7 +76,7 @@ EOF
 cd ..
 
 # 创建Taskfile.yml
-cat << EOF > main.pcss
+cat << EOF > Taskfile.yml
 version: '3'
 
 # task -p task1 task2
