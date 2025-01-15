@@ -19,7 +19,7 @@ rm hello.py
 static_src_folder_name="${name}_static"
 mkdir $static_src_folder_name
 cd $static_src_folder_name
-npm init
+npm init -y
 cd ..
 
 
