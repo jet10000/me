@@ -10,6 +10,10 @@ pipenv install django
 pipenv run django-admin startproject $name .
 pipenv run python manage.py migrate
 
+mkdir static
+mkdir static_root
+mkdir templates
+
 #rm -rf .git
 #rm .gitignore
 #rm README.md
@@ -70,6 +74,40 @@ cat << EOF > main.pcss
 EOF
 
 cd ..
+
+# 创建Taskfile.yml
+cat << EOF > main.pcss
+version: '3'
+
+# task -p task1 task2
+
+# TF_CPP_MIN_LOG_LEVEL=2
+# https://stackoverflow.com/questions/52243227/tensorflow-js-how-to-avoid-your-cpu-supports-instructions-avx-avx2
+
+#cmds:
+#  - task -p django -w tailwind
+#
+#django:
+#  sources:
+#    - templates/*.html
+#  cmds:
+#    - pipenv run python manage.py runserver 0.0.0.0:8000
+
+tasks:
+
+  dev:
+    cmds:
+      - task -p django tailwind
+
+  django:
+    cmds:
+      - pipenv run python manage.py runserver
+
+  tailwind:
+    dir: ${name}_static
+    cmds:
+      - npx postcss main.pcss -o ../static/css/dist/main.css --watch --verbose
+EOF
 
 rm new.sh
 
