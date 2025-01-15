@@ -72,6 +72,7 @@ EOF
 
 cd ..
 
+rm new.sh
 
 
 ```
