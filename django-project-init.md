@@ -15,8 +15,18 @@ pipenv install django
 pipenv run django-admin startproject $name .
 pipenv run python manage.py migrate
 
+# 创建静态文件目录
 mkdir static
 mkdir static_root
+# 注意向settings.py追加文本行使用>>，完全替代使用>
+cat << EOF >> $name/settings.py
+
+STATICFILES_DIRS = [
+    BASE_DIR / "static",
+]
+STATIC_ROOT = BASE_DIR / 'static_root'
+EOF
+
 mkdir templates
 
 #rm -rf .git
