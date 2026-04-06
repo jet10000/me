@@ -10,6 +10,8 @@ https://gist.github.com/logan-robbins/5e480bfb3cd00fe38f858d798b67aa61
 
 https://gist.github.com/busfahrer/e5f4ca6b81b127cd5eb1a99e20750622
 
+https://github.com/jayyvk/trainmyowngpt/
+
 ## tinygrad
 
 https://tinygrad.org/
