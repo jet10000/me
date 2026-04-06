@@ -10,6 +10,8 @@ https://tinygrad.org/
 
 https://docs.tinygrad.org/quickstart/
 
+https://github.com/obadakhalili/tinygrad-tensor-puzzles
+
 ## autoresearch
 
 https://github.com/karpathy/autoresearch
